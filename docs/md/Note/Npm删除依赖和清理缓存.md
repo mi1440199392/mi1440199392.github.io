@@ -1,13 +1,13 @@
-##### 清理缓存
+###### 清理缓存
 
-```java
+```javascript
 npm cache verify
 npm cache clean -f
 npm cache clean -force
 ```
 
-##### 删除项目依赖
+###### 删除项目依赖
 
-```java
+```javascript
 npm uninstall *
 ```
