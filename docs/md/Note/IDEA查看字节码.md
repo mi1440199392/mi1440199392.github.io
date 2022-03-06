@@ -4,7 +4,8 @@
 
 ![](/docs/assets/img/a.png)
 
-`Arguments：-c $FileNameWithoutExtension$.class  `
+`Arguments：-c $FileNameWithoutExtension$.class`
+
 `Working directory：$OutputPath$\$FileDirRelativeToSourcepath$ `
 
 ---
