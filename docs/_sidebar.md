@@ -19,4 +19,5 @@
        - [开发扩展](/md/Note/开发扩展.md)
        - [解决Idea启动创建索引导致卡机的问题](/md/Note/解决Idea启动创建索引导致卡机的问题.md)
        - [IDEA一直indexing......导致界面卡顿不动解决](/md/Note/IDEA一直indexing......导致界面卡顿不动解决.md)
+       - [Idea编写Json字符串的技巧](/md/Note/Idea编写Json字符串的技巧.md)
 
