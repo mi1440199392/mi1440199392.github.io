@@ -9,10 +9,10 @@
    - 后端
    
        - [常见命名规则以及适用场景](/md/Java/db002.md)
-       - [Java线程池实现原理及其在美团业务中的实践](/docs/md/Java/Java01.md)
-       - [并发工具之Semaphore与Exchanger](/docs/md/Java/Java02.md)
-       - [并发工具之CountDownLatch与CyclicBarrier](/docs/md/Java/Java03.md)
-       - [Apache的架构师们遵循的30条设计原则](/docs/md/Java/Java04.md)
+       - [Java线程池实现原理及其在美团业务中的实践](/md/Java/Java01.md)
+       - [并发工具之Semaphore与Exchanger](/md/Java/Java02.md)
+       - [并发工具之CountDownLatch与CyclicBarrier](/md/Java/Java03.md)
+       - [Apache的架构师们遵循的30条设计原则](/md/Java/Java04.md)
    
    - 前端
    
