@@ -1,4 +1,3 @@
-- [:octocat: 首页](/_coverpage.md)
 - :memo: 目录
    - 第1章：开发入门
    
