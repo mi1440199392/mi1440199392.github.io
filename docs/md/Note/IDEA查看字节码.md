@@ -2,7 +2,7 @@
 
 ###### 因此可以基于该命令在*IDEA*中设置宏，来快捷使用*javap*查看字节码，设置如图：
 
-![](/docs/assets/img/1.png)
+![](/docs/assets/img/a.png)
 
 `Arguments：-c $FileNameWithoutExtension$.class  `
 `Working directory：$OutputPath$\$FileDirRelativeToSourcepath$ `
@@ -11,6 +11,6 @@
 
 ###### *IDEA*查看某个类对应的字节码文件
 
-![](/docs/assets/img/2.png)
+![](/docs/assets/img/b.png)
 
 !> *需要注意的是：查看某个类对应的字节码文件之前确保它已经被编译过*
