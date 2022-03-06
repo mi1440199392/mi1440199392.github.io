@@ -4,8 +4,8 @@
 
 ![](/docs/assets/img/1.png)
 
-` Arguments：-c $FileNameWithoutExtension$.class `
-` Working directory：$OutputPath$\$FileDirRelativeToSourcepath$ `
+`Arguments：-c $FileNameWithoutExtension$.class  `
+`Working directory：$OutputPath$\$FileDirRelativeToSourcepath$ `
 
 ---
 
@@ -13,4 +13,4 @@
 
 ![](/docs/assets/img/2.png)
 
-!> 需要注意的是：查看某个类对应的字节码文件之前确保它已经被编译过
+!> *需要注意的是：查看某个类对应的字节码文件之前确保它已经被编译过*
