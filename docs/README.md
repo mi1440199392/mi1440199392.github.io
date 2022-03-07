@@ -1,10 +1,10 @@
-#### :blue_book: 数据库篇
+#### 📘 数据库篇
     
 - [大众点评订单系统分库分表实践](/md/DataBase/大众点评订单系统分库分表实践.md)
 - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
 - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)  
 
-#### :ledger: 后端篇
+#### 📒 后端篇
 
 - [常见命名规则以及适用场景](/md/Java/db002.md)
 - [Java线程池实现原理及其在美团业务中的实践](/md/Java/Java01.md)
@@ -29,11 +29,11 @@
 - [Java格式化打印及数字格式化](/md/Java/Java20.md)
 - [精确的浮点数运算](/md/Java/Java21.md)
 
-#### :orange_book: 前端篇
+#### 📙 前端篇
 
 - [Npm删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
 
-#### :memo: 笔记篇
+#### 📔 笔记篇
 
 - [IDEA查看字节码](/md/Note/IDEA查看字节码.md)
 - [IDEA大于等于，不等于、小于等于等等符号设置](/md/Note/IDEA大于等于，不等于、小于等于等等符号设置.md)
