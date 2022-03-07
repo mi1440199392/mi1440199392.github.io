@@ -2,9 +2,9 @@
 
 # 柯南剧场版
 
-## 程序员的编码指南
+## Java Guide
 
-- Java学习路线 : 一份涵盖 Java 后端开发必备技能的学习路线！全面且清晰！
+- Java 后端开发必备技能的学习路线！
     
 [![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://gitee.com/hswealth/dashboard/projects)
 [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://gitee.com/hswealth/dashboard/projects) 
