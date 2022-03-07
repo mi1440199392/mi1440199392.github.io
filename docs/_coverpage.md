@@ -10,4 +10,4 @@
 [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://gitee.com/hswealth/dashboard/projects) 
 
 [GitHub](<https://gitee.com/hswealth/dashboard/projects>)
-[开始阅读](_sidebar.md)
+[开始阅读](README.md)
