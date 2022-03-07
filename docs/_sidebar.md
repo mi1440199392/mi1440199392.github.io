@@ -34,7 +34,7 @@
     - [Npm删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
     - [JS实现延时刷新](/md/Web/Web01.md)
 
-- :memo: 笔记篇
+- :notebook_with_decorative_cover: 笔记篇
     
     - [IDEA查看字节码](/md/Note/IDEA查看字节码.md)
     - [IDEA大于等于，不等于、小于等于等等符号设置](/md/Note/IDEA大于等于，不等于、小于等于等等符号设置.md)
