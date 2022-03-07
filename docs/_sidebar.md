@@ -32,6 +32,7 @@
 - :orange_book: 前端篇
 
     - [Npm删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
+    - [JS实现延时刷新](/md/Web/Web01.md)
 
 - :memo: 笔记篇
     
