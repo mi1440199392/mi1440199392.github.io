@@ -10,7 +10,6 @@
     - [Java线程池实现原理及其在美团业务中的实践](/md/Java/Java01.md)
     - [并发工具之Semaphore与Exchanger](/md/Java/Java02.md)
     - [并发工具之CountDownLatch与CyclicBarrier](/md/Java/Java03.md)
-    - [Apache的架构师们遵循的30条设计原则](/md/Java/Java04.md)
     - [Spring Boot中配置文件信息映射到实体类](/md/Java/Java05.md)
     - [汉字转拼音工具类](/md/Java/Java06.md)
     - [Arthas方法同名过滤](/md/Java/Java07.md)
@@ -42,3 +41,4 @@
     - [解决Idea启动创建索引导致卡机的问题](/md/Note/解决Idea启动创建索引导致卡机的问题.md)
     - [IDEA一直indexing......导致界面卡顿不动解决](/md/Note/IDEA一直indexing......导致界面卡顿不动解决.md)
     - [Idea编写Json字符串的技巧](/md/Note/Idea编写Json字符串的技巧.md)
+    - [Apache的架构师们遵循的30条设计原则](/md/Java/Java04.md)
