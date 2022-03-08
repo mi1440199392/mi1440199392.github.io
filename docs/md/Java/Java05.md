@@ -1,4 +1,4 @@
-```java
+```yaml
 
 -- application.properties配置信息映射
 
