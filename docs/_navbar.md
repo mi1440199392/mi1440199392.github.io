@@ -34,3 +34,14 @@
   * [Arthas诊断工具](https://arthas.aliyun.com/doc/index.html)
   * [idea历史版本](https://www.jetbrains.com/idea/download/other.html)
   * [思维导图](https://www.processon.com/)
+
+* 📖 资源推荐
+  * [程序员一站式导航](http://tooool.org/)
+  * [CSDN](https://www.csdn.net/)
+  * [博客园](https://www.cnblogs.com/)
+  * [开源中国](https://www.oschina.net/)
+  * [若依管理系统](http://www.ruoyi.vip/)
+
+* 🐋 摸鱼专区
+  * [哔哩哔哩](https://www.bilibili.com/)
+  * [知乎](https://www.zhihu.com/)
