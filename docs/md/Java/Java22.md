@@ -64,3 +64,67 @@ public class MainApp {
 }
 
 ```
+
+###### 反例
+
+```java
+
+package com.hundsun.demo.abs;
+
+/**
+ * 定义一个抽象类，有且仅有一个方法
+ */
+public abstract class AbsTractUser {
+
+    protected abstract boolean addUser();
+}
+
+```
+
+```java
+
+package com.hundsun.demo.filter;
+import com.hundsun.demo.abs.AbsTractUser;
+
+public class FilterUser {
+
+    /**
+     * 定义一个方法，入参是抽象类
+     * 
+     * @param absTractUser
+     * @return
+     */
+    public boolean filterUser(AbsTractUser absTractUser) {
+        return true;
+    }
+}
+
+```
+
+```java
+
+package com.hundsun.demo.domain;
+import com.hundsun.demo.abs.AbsTractUser;
+import com.hundsun.demo.filter.FilterUser;
+
+public class MainApp {
+
+    public static void main(String[] args) {
+        FilterUser user = new FilterUser();
+
+        // 匿名内部类
+        boolean b = user.filterUser(new AbsTractUser() {
+            @Override
+            protected boolean addUser() {
+                return false;
+            }
+        });
+
+        // Lambda表达式 --→ 语法报错内容 (lambda转换的目标类型必须是接口)
+        boolean b1 = user.filterUser(() -> {
+            return false;
+        });
+    }
+}
+
+```
