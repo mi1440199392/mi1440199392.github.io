@@ -27,6 +27,7 @@
     - [Java字符串比较](/md/Java/Java19.md)
     - [Java格式化打印及数字格式化](/md/Java/Java20.md)
     - [精确的浮点数运算](/md/Java/Java21.md)
+    - [Lambda表达式](/md/Java/Java22.md)
 
 - :orange_book: 前端篇
 
