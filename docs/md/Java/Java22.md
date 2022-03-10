@@ -2,7 +2,7 @@
 
 *任何接口，如果只包含唯一一个抽象方法，那么它就是一个函数式接口*
 
-###### *Lambda*表达入门
+###### *Lambda*表达式入门
 
 ```java
 
@@ -65,7 +65,7 @@ public class MainApp {
 
 ```
 
-###### 反例
+###### *Lambda*表达式反例
 
 ```java
 
@@ -120,7 +120,7 @@ public class MainApp {
             }
         });
 
-        // Lambda表达式 --→ 语法报错内容 (lambda转换的目标类型必须是接口)
+        // Lambda表达式 | 语法报错内容 (lambda转换的目标类型必须是接口)
         boolean b1 = user.filterUser(() -> {
             return false;
         });
@@ -128,3 +128,5 @@ public class MainApp {
 }
 
 ```
+
+> 注意：*Lambda* 转换的目标类型必须是接口
