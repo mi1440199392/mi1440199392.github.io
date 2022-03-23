@@ -143,8 +143,8 @@ public class ProxyUserService implements UserService {
 ```java
 
 /**
-    * 测试静态代理
-    */
+ * 测试静态代理
+ */
 @Test
 void contextLoads11() {
 
