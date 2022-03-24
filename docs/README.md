@@ -44,3 +44,4 @@
 - [IDEA一直indexing......导致界面卡顿不动解决](/md/Note/IDEA一直indexing......导致界面卡顿不动解决.md)
 - [Idea编写Json字符串的技巧](/md/Note/Idea编写Json字符串的技巧.md)
 - [Apache的架构师们遵循的30条设计原则](/md/Java/Java04.md)
+- [windows10 SHH连接服务器](/md/Note/Note01.md)
