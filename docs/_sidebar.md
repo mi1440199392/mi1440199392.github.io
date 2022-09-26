@@ -29,6 +29,7 @@
     - [精确的浮点数运算](/md/Java/Java21.md)
     - [Lambda表达式](/md/Java/Java22.md)
     - [静态代理](/md/Java/Java23.md)
+    - [深入理解jvm虚拟机](/md/Java/Java24.md)
 
 - :orange_book: 前端篇
 
