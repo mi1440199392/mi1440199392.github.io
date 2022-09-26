@@ -30,6 +30,7 @@
 - [Lambda表达式](/md/Java/Java22.md)
 - [静态代理](/md/Java/Java23.md)
 - [深入理解jvm虚拟机](/md/Java/Java24.md)
+- [集合数据分片](/md/Java/Java25.md)
 
 ##### 📙 前端篇
 
