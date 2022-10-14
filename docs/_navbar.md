@@ -42,7 +42,9 @@
   * [开源中国](https://www.oschina.net/)
   * [若依管理系统](http://www.ruoyi.vip/)
   * [Tampermonkey油猴脚本](https://www.tampermonkey.net/)
-  * [蚂蚁导航 | 一个蕴含丰富优秀网址的百宝箱网站](https://www.mayidh.net/)
+  * [蚂蚁导航](https://www.mayidh.net/)
+  * [佛系软件](https://foxirj.com/)
+  * [阿萨姆软件](https://www.sssam.com/)
 
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
