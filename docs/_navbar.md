@@ -41,6 +41,7 @@
   * [博客园](https://www.cnblogs.com/)
   * [开源中国](https://www.oschina.net/)
   * [若依管理系统](http://www.ruoyi.vip/)
+  * [Tampermonkey油猴脚本](https://www.tampermonkey.net/)
 
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
