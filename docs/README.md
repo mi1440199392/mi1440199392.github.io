@@ -35,6 +35,7 @@
 - [ArrayBlockingQueue特性, 实现生产者消费者](/md/Java/Java27.md)
 - [动态代理](/md/Java/Java28.md)
 - [创建不可修改的集合, 模拟Collections.unmodifiableList()](/md/Java/Java29.md)
+- [枚举实现单例](/md/Java/Java30.md)
 
 ##### 📙 前端篇
 
