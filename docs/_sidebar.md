@@ -37,6 +37,7 @@
     - [创建不可修改的集合, 模拟Collections.unmodifiableList()](/md/Java/Java29.md)
     - [枚举实现单例](/md/Java/Java30.md)
     - [设计模式: 模板方法](/md/Java/Java31.md)
+    - [设计模式: 策略模式](/md/Java/Java32.md)
 
 - :orange_book: 前端篇
 
