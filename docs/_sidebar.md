@@ -38,7 +38,7 @@
     - [枚举实现单例](/md/Java/Java30.md)
     - [设计模式: 模板方法](/md/Java/Java31.md)
     - [设计模式: 策略模式](/md/Java/Java32.md)
-    - [测试二级目录](/md/Java/test)
+    - [测试二级目录](/md/Java/test/)
       - [设计模式: 策略模式](/md/Java/test/Java32.md)
 
 - :orange_book: 前端篇
