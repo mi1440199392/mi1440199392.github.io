@@ -42,6 +42,12 @@
     - [设计模式: 中介者模式](/md/Java/Java34.md)
     - [设计模式: 迭代器模式](/md/Java/Java35.md)
     - [设计模式: 观察者模式](/md/Java/Java36.md)
+    - [设计模式: 职责链模式](/md/Java/Java37.md)
+    - [设计模式: 代理模式](/md/Java/Java38.md)
+    - [Map转Bean](/md/Java/Java39.md)
+    - [设计模式: 组合模式](/md/Java/Java40.md)
+    - [设计模式: 适配器模式](/md/Java/Java41.md)
+    - [switch语法常见问题](/md/Java/Java42.md)
     
 - :orange_book: 前端篇
 
