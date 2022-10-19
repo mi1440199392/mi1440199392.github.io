@@ -4,7 +4,7 @@
     - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
     - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)  
 
-- 后端篇
+- :ledger: 后端篇
 
     - [常见命名规则以及适用场景](/md/Java/db002.md)
     - [Java线程池实现原理及其在美团业务中的实践](/md/Java/Java01.md)
@@ -42,12 +42,12 @@
       - 测试三级目录
         - 测试四级目录
           - [设计模式: 策略模式](/md/Java/Java32.md) 
-- 前端篇
+- :orange_book: 前端篇
 
     - [Npm删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
     - [JS实现延时刷新](/md/Web/Web01.md)
 
-- 笔记篇
+- :notebook_with_decorative_cover: 笔记篇
     
     - [IDEA查看字节码](/md/Note/IDEA查看字节码.md)
     - [IDEA大于等于，不等于、小于等于等等符号设置](/md/Note/IDEA大于等于，不等于、小于等于等等符号设置.md)
