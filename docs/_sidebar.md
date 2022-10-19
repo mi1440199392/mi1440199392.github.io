@@ -38,10 +38,8 @@
     - [枚举实现单例](/md/Java/Java30.md)
     - [设计模式: 模板方法](/md/Java/Java31.md)
     - [设计模式: 策略模式](/md/Java/Java32.md)
-    - 测试二级目录
-      - 测试三级目录
-        - 测试四级目录
-          - [设计模式: 策略模式](/md/Java/Java32.md) 
+    - [栈Stack](/md/Java/Java33.md)
+    
 - :orange_book: 前端篇
 
     - [Npm删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
