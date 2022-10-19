@@ -39,6 +39,9 @@
     - [设计模式: 模板方法](/md/Java/Java31.md)
     - [设计模式: 策略模式](/md/Java/Java32.md)
     - [栈Stack](/md/Java/Java33.md)
+    - [设计模式: 中介者模式](/md/Java/Java34.md)
+    - [设计模式: 迭代器模式](/md/Java/Java35.md)
+    - [设计模式: 观察者模式](/md/Java/Java36.md)
     
 - :orange_book: 前端篇
 
