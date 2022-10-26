@@ -50,6 +50,7 @@
 - [switch语法常见问题](/md/Java/Java42.md)
 - [defaultIfNull满足条件返回默认值](/md/Java/Java43.md)
 - [创建简单的Bean容器](/md/Java/Java44.md)
+- [实现 Bean 的定义、注册、获取](/md/Java/Java45.md)
 
 ##### 📙 前端篇
 
