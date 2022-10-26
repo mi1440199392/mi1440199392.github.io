@@ -162,5 +162,7 @@ public class E_107 {
 > 控制台打印
 
 ```java
-Student{id=1, name='张三'}
+true
+51228289
+51228289
 ```
