@@ -9,7 +9,7 @@
   * [element-plus](https://element-plus.gitee.io/zh-CN/)
   * [idea激活](https://www.jiweichengzhu.com/)
   * [驼峰转下划线](https://www.bejson.com/convert/camel_underscore/)
-  * [身份证号码大全](http://m.kuaichala.com/idcard/)
+  * [在线随机身份证号码生成](http://sfz.uzuzuz.com/)
 
 * 💼 知识星球
   
