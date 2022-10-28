@@ -36,7 +36,7 @@
   * [思维导图](https://www.processon.com/)
 
 * 📖 资源推荐
-  * [程序员一站式导航](http://tooool.org/)
+  * [A姐精品资源分享](https://www.ahhhhfs.com/)
   * [CSDN](https://www.csdn.net/)
   * [博客园](https://www.cnblogs.com/)
   * [开源中国](https://www.oschina.net/)
