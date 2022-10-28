@@ -23,6 +23,7 @@
   * [虫洞栈](https://bugstack.cn/)
   * [正则表达式-语法](https://www.runoob.com/regexp/regexp-syntax.html)
   * [XXL开源社区](https://www.xuxueli.com/blog/)
+  * [书栈网-开源编程书籍](https://www.bookstack.cn/)
   
 * 📦 面试宝典
   
