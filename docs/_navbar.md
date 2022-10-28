@@ -10,6 +10,7 @@
   * [idea激活](https://www.jiweichengzhu.com/)
   * [驼峰转下划线](https://www.bejson.com/convert/camel_underscore/)
   * [在线随机身份证号码生成](http://sfz.uzuzuz.com/)
+  * [常用正则大全](https://any86.github.io/any-rule/)
 
 * 💼 知识星球
   
