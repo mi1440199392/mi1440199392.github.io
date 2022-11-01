@@ -51,6 +51,7 @@
     - [defaultIfNull满足条件返回默认值](/md/Java/Java43.md)
     - [创建简单的Bean容器](/md/Java/Java44.md)
     - [实现 Bean 的定义、注册、获取](/md/Java/Java45.md)
+    - [基于 Cglib 和 JDK 实现含构造函数的类实例化策略](/md/Java/Java46.md)
     
 - :orange_book: 前端篇
 
