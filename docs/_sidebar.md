@@ -52,6 +52,7 @@
     - [创建简单的Bean容器](/md/Java/Java44.md)
     - [实现 Bean 的定义、注册、获取](/md/Java/Java45.md)
     - [基于 Cglib 和 JDK 实现含构造函数的类实例化策略](/md/Java/Java46.md)
+    - [为 Bean 对象注入属性和依赖 Bean 的功能实现](/md/Java/Java47.md)
     
 - :orange_book: 前端篇
 
