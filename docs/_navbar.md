@@ -13,7 +13,7 @@
   * [常用正则大全](https://any86.github.io/any-rule/)
   * [图欧学习资源库](https://tuostudy.com/)
   * [Java充电社](http://itsoku.com/)
-  * [JDK8-中文API](https://tool.oschina.net/apidocs/apidoc?api=jdk-zh)
+  * [JDK8-中文API](https://www.matools.com/api/java8)
 
 * 💼 知识星球
   
