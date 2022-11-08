@@ -221,7 +221,7 @@ this.transactionHandler.runInNewTransaction(() -> saveChildStockInfo());
 ```
 * 它是显式调用的，因此更具可读性
 
-##### *补充*
+#### 补充
 
 **Spring** 的 **AOP** 代理有 **jdk** 代理和 **cglib** 代理实现，通过如下代码来区分：
 
