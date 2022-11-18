@@ -55,6 +55,7 @@
     - [为 Bean 对象注入属性和依赖 Bean 的功能实现](/md/Java/Java47.md)
     - [SpringBoot事务-失效的情况](/md/Java/Java48.md)
     - [设计与实现资源加载器，从 Spring.xml 解析和注册 Bean 对象](/md/Java/Java49.md)
+    - [实现应用上下文，自动识别、资源加载、扩展机制](/md/Java/Java50.md)
     
 - :orange_book: 前端篇
 
