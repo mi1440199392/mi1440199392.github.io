@@ -56,6 +56,7 @@
     - [SpringBoot事务-失效的情况](/md/Java/Java48.md)
     - [设计与实现资源加载器，从 Spring.xml 解析和注册 Bean 对象](/md/Java/Java49.md)
     - [实现应用上下文，自动识别、资源加载、扩展机制](/md/Java/Java50.md)
+    - [实现Bean对象的初始化和销毁方法](/md/Java/Java51.md)
     
 - :orange_book: 前端篇
 
