@@ -2,7 +2,8 @@
     
     - [大众点评订单系统分库分表实践](/md/DataBase/大众点评订单系统分库分表实践.md)
     - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
-    - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)  
+    - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)
+    - [MySQL锁表](/md/DataBase/db002.md)
 
 - :ledger: 后端篇
 
