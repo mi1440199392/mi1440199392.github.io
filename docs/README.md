@@ -61,6 +61,7 @@
 - [定义标记类型Aware接口，实现感知容器对象](/md/Java/Java52.md)
 - [定义 SpringMVC 统一响应类](/md/Java/Java53.md)
 - [SpringRedis工具类](/md/Java/Java54.md)
+- [SpringBoot 解决跨域的 5 种方式](/md/Java/Java55.md)
 
 ##### 📙 前端篇
 
