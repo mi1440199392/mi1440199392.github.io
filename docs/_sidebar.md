@@ -59,6 +59,7 @@
     - [实现应用上下文，自动识别、资源加载、扩展机制](/md/Java/Java50.md)
     - [实现Bean对象的初始化和销毁方法](/md/Java/Java51.md)
     - [定义标记类型Aware接口，实现感知容器对象](/md/Java/Java52.md)
+    - [定义 SpringMVC 统一响应类](/md/Java/Java53.md)
     
 - :orange_book: 前端篇
 
