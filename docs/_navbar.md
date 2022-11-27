@@ -54,3 +54,4 @@
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
   * [知乎](https://www.zhihu.com/)
+  * [古诗文网](https://www.gushiwen.cn/)
