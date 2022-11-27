@@ -1,24 +1,5 @@
 ```java
-
-/*
- * 系统名称: ARES 应用快速开发企业套件
- * 模块名称: 
- * 类 名 称: DatetimeUtil.java
- * 软件版权: ******股份有限公司
- * 相关文档:
- * 修改记录:
- * 修改日期      修改人员                     修改说明<BR>
- * ========     ======  ============================================
- *   
- * ========     ======  ============================================
- * 评审记录：
- * 
- * 评审人员：
- * 评审日期：
- * 发现问题：
- */
 package com.hundsun.jresplus.trace.util;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
