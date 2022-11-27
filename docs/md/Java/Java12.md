@@ -6,12 +6,6 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 功能说明: 时间日期获取工具<br>
- * 系统版本: v1.0<br>
- * 开发人员: xujin@hudnsun.com<br>
- * 开发时间: 2017-07-31<br>
- */
 public class DatetimeUtil {
 	/** 锁对象 */
 	private static final Object lockObj = new Object();
