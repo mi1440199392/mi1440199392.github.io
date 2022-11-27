@@ -63,6 +63,7 @@
 - [SpringRedis工具类](/md/Java/Java54.md)
 - [SpringBoot 解决跨域的 5 种方式](/md/Java/Java55.md)
 - [LocalDate日期类使用](/md/Java/Java56.md)
+- [SpringBoot 参数校验使用](/md/Java/Java57.md)
 
 ##### 📙 前端篇
 
