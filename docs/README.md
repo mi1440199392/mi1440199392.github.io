@@ -62,6 +62,9 @@
 - [定义 SpringMVC 统一响应类](/md/Java/Java53.md)
 - [SpringRedis工具类](/md/Java/Java54.md)
 - [SpringBoot 解决跨域的 5 种方式](/md/Java/Java55.md)
+- [LocalDate日期类使用](/md/Java/Java56.md)
+- [SpringBoot 参数校验使用](/md/Java/Java57.md)
+- [自定义全局异常处理器](/md/Java/Java58.md)
 
 ##### 📙 前端篇
 

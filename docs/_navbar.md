@@ -54,3 +54,5 @@
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
   * [知乎](https://www.zhihu.com/)
+  * [古诗文网](https://www.gushiwen.cn/)
+  * [英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
