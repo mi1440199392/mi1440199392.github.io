@@ -35,6 +35,8 @@
   * [Arthas诊断工具](https://arthas.aliyun.com/doc/index.html)
   * [Idea历史版本](https://www.jetbrains.com/idea/download/other.html)
   * [思维导图](https://www.processon.com/)
+  * [开源Api在线测试工具](https://hoppscotch.io/)
+  * [开源Api在线测试工具](https://demo.eoapi.io/zh/home/api/http/test?pageID=1669803825231)
 
 * 📖 资源推荐
   * [A姐精品资源分享](https://www.ahhhhfs.com/)
