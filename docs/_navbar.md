@@ -43,6 +43,7 @@
 * 📖 资源推荐
   * [A姐精品资源分享](https://www.ahhhhfs.com/)
   * [CSDN](https://www.csdn.net/)
+  * [Gitee](https://gitee.com/dashboard)
   * [博客园](https://www.cnblogs.com/)
   * [开源中国](https://www.oschina.net/)
   * [若依管理系统](http://www.ruoyi.vip/)
