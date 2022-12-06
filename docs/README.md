@@ -82,3 +82,7 @@
 - [windows10 SHH连接服务器](/md/Note/Note01.md)
 - [IntelliJ IDEA 修改 idea64.exe.vmoptions 文件配置，导致软件打不开错误](/md/Note/Note02.md)
 - [Git 常用命令](/md/Note/Note03.md)
+
+##### 📗 服务器篇
+
+- [tree命令 – 以树状图形式列出目录内容](/md/Linux/Linux01.md)
