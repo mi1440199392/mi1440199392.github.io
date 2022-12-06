@@ -38,6 +38,7 @@
   * [开源Api在线测试工具](https://hoppscotch.io/)
   * [开源Api在线测试工具](https://demo.eoapi.io/zh/home/api/http/test?pageID=1669803825231)
   * [EasyExcel文档](https://easyexcel.opensource.alibaba.com/)
+  * [Linux命令大全手册](https://www.linuxcool.com/)
 
 * 📖 资源推荐
   * [A姐精品资源分享](https://www.ahhhhfs.com/)
