@@ -35,10 +35,7 @@
 
 
 ```shell
--- 
-
 [root@svr127 app-project]# tree -d -L 2
-.
 ├── arthas-output
 ├── config
 ├── fragment
