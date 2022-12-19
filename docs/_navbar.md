@@ -20,6 +20,7 @@
   * [格式化SQL](https://tool.oschina.net/codeformat/sql)
   * [随机身份证号码](http://www.chineseidcard.com/?region=110101&birthday=19590307&sex=1&num=5&r=48)
   * [Spring Initializr](https://start.spring.io/)
+  * [Alibaba-SpringBoot应用脚手架](https://start.aliyun.com/bootstrap.html?spm=a2ck6.14145464.0.0.4e907f23OgTtcD)
   * [虫洞栈](https://bugstack.cn/)
   * [正则表达式-语法](https://www.runoob.com/regexp/regexp-syntax.html)
   * [XXL开源社区](https://www.xuxueli.com/blog/)
