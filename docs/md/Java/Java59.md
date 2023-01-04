@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * @author hspcadmin
  * @version 1.0
- * @deprecated 《Mybatis 手撸专栏》第2章：创建简单的映射器代理工厂
+ * @deprecated 《Mybatis手撸专栏》第2章：创建简单的映射器代理工厂
  */
 @SuppressWarnings("all")
 public class A_102 {
