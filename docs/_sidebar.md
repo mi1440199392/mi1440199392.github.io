@@ -67,7 +67,7 @@
     - [自定义全局异常处理器](/md/Java/Java58.md)
     - [Mybatis -创建简单的映射器代理工厂](/md/Java/Java59.md)
     - [Mybatis -实现映射器的注册和使用](/md/Java/Java60.md)
-    - [解析@interfa注解给对象属性设值](/md/Java/Java61.md)
+    - [解析@interface注解给对象属性设值](/md/Java/Java61.md)
     
 - :orange_book: 前端篇
 

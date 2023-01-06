@@ -1,9 +1,11 @@
 ```java
 package com.hundsun.frameworlk.a;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
+
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -15,7 +17,7 @@ import java.util.List;
 /**
  * @author hspcadmin
  * @version 1.0
- * @description 解析注解给对象属性设值
+ * @description 解析@interface注解给对象属性设值
  */
 @SuppressWarnings("all")
 public class A_103 {
@@ -54,11 +56,13 @@ public class A_103 {
 
 	// 属性格式化类构造者器
 	@AllArgsConstructor
+	@NoArgsConstructor
 	static class FieldFormatBuilder {
 
 		private static List<FieldFormat> fieldFormats = new ArrayList<>(10);
 
 		public static FieldFormatBuilder builder(Field field, Object tagertObject) {
+			fieldFormats.clear();
 			fieldFormats.add(new NumberFormat(field, tagertObject));
 			fieldFormats.add(new NameFormat(field, tagertObject));
 			return new FieldFormatBuilder();
