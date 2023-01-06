@@ -1,11 +1,9 @@
 ```java
 package com.hundsun.frameworlk.a;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -59,13 +57,15 @@ public class A_103 {
 	@NoArgsConstructor
 	static class FieldFormatBuilder {
 
-		private static List<FieldFormat> fieldFormats = new ArrayList<>(10);
+		private List<FieldFormat> fieldFormats = new ArrayList<>(10);
 
 		public static FieldFormatBuilder builder(Field field, Object tagertObject) {
-			fieldFormats.clear();
+			return new FieldFormatBuilder(field, tagertObject);
+		}
+
+		private FieldFormatBuilder(Field field, Object tagertObject) {
 			fieldFormats.add(new NumberFormat(field, tagertObject));
 			fieldFormats.add(new NameFormat(field, tagertObject));
-			return new FieldFormatBuilder();
 		}
 
 		public void format() throws IllegalAccessException {
