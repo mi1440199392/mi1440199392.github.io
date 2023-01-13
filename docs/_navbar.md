@@ -25,6 +25,7 @@
   * [正则表达式-语法](https://www.runoob.com/regexp/regexp-syntax.html)
   * [XXL开源社区](https://www.xuxueli.com/blog/)
   * [书栈网-开源编程书籍](https://www.bookstack.cn/)
+  * [Sa-Token - Java权限认证框架](https://sa-token.cc/doc.html#/)
   
 * 📦 面试宝典
   
