@@ -68,7 +68,7 @@
     - [Mybatis -创建简单的映射器代理工厂](/md/Java/Java59.md)
     - [Mybatis -实现映射器的注册和使用](/md/Java/Java60.md)
     - [解析@interface注解给对象属性设值](/md/Java/Java61.md)
-    - [Spring依赖注入Map、List、Array方式](/md/Java/Java62.md)
+    - [Spring 依赖注入 Map、List、Array 方式](/md/Java/Java62.md)
     
 - :orange_book: 前端篇
 
