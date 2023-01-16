@@ -1,6 +1,8 @@
-# Spring依赖注入
+# Spring 依赖注入
 
-# Spring依赖注入Map方式一
+> 通过依赖注入的方式来管理 Bean 之间的依赖关系
+
+# Spring 依赖注入 Map 方式一
 
 ```java
 package com.hundsun.frameworlk.http.policy;
@@ -125,7 +127,7 @@ public class PersonController {
 
 ***
 
-# Spring依赖注入Map方式二
+# Spring 依赖注入 Map 方式二
 
 ```java
 package com.hundsun.frameworlk.http.policy;
@@ -235,7 +237,7 @@ public class StudentFiveController {
 
 ***
 
-# Spring依赖注入Map方式三
+# Spring 依赖注入 Map 方式三
 
 ```java 
 package com.hundsun.frameworlk.http.policy;
@@ -341,7 +343,7 @@ public class StudentFourController {
 
 ***
 
-# Spring依赖注入List方式一
+# Spring 依赖注入 List 方式一
 
 ```java 
 package com.hundsun.frameworlk.http.policy;
@@ -449,7 +451,7 @@ public class StudentController {
 
 ***
 
-# Spring依赖注入List方式二
+# Spring 依赖注入 List 方式二
 
 ```java 
 package com.hundsun.frameworlk.http.policy;
@@ -557,7 +559,7 @@ public class StudentThreeController {
 
 ***
 
-# Spring依赖注入List方式三
+# Spring 依赖注入 List 方式三
 
 ```java 
 package com.hundsun.frameworlk.http.policy;
@@ -662,7 +664,7 @@ public class StudentTwoController {
 张三在学习...
 ```
 
-# Spring依赖注入Array数组方式
+# Spring 依赖注入 Array 数组方式
 
 ```java
 package com.hundsun.frameworlk.http.policy;
