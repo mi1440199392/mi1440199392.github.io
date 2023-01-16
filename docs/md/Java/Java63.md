@@ -27,74 +27,99 @@ public interface HandlerInterceptor {
 # 项目结构
 
 ```text
-├─src
-│  ├─main
-│  │  ├─java
-│  │  │  └─com
-│  │  │      └─hundsun
-│  │  │          └─frameworlk
-│  │  │              ├─a
-│  │  │              ├─http
-│  │  │              │  ├─controller
-│  │  │              │  └─policy
-│  │  │              │      └─impl
-│  │  │              └─token
-│  │  │                  ├─author
-│  │  │                  ├─config
-│  │  │                  ├─controller
-│  │  │                  ├─domain
-│  │  │                  │  ├─constant
-│  │  │                  │  ├─model
-│  │  │                  │  ├─request
-│  │  │                  │  │  └─dto
-│  │  │                  │  └─response
-│  │  │                  ├─exception
-│  │  │                  ├─function
-│  │  │                  ├─handle
-│  │  │                  └─util
-│  │  └─resources
-│  │      ├─log
-│  │      ├─static
-│  │      └─templates
-│  └─test
-│      └─java
-│          └─com
-│              └─hundsun
-│                  └─frameworlk
-└─target
-    ├─classes
-    │  ├─com
-    │  │  └─hundsun
-    │  │      └─frameworlk
-    │  │          ├─a
-    │  │          ├─http
-    │  │          │  ├─controller
-    │  │          │  └─policy
-    │  │          │      └─impl
-    │  │          └─token
-    │  │              ├─author
-    │  │              ├─config
-    │  │              ├─controller
-    │  │              ├─domain
-    │  │              │  ├─constant
-    │  │              │  ├─model
-    │  │              │  ├─request
-    │  │              │  │  └─dto
-    │  │              │  └─response
-    │  │              ├─exception
-    │  │              ├─function
-    │  │              ├─handle
-    │  │              └─util
-    │  └─log
-    ├─generated-sources
-    │  └─annotations
-    ├─generated-test-sources
-    │  └─test-annotations
-    ├─maven-status
-    │  └─maven-compiler-plugin
-    │      └─compile
-    │          └─default-compile
-    └─test-classes
+├─main
+│  ├─java
+│  │  └─com
+│  │      └─hundsun
+│  │          └─frameworlk
+│  │              │  FrameworlkApplication.java
+│  │              │
+│  │              ├─a
+│  │              │      A_100.java
+│  │              │      A_101.java
+│  │              │      A_102.java
+│  │              │      A_103.java
+│  │              │
+│  │              ├─http
+│  │              │  ├─controller
+│  │              │  │      GameController.java
+│  │              │  │      PersonController.java
+│  │              │  │      StudentController.java
+│  │              │  │      StudentFiveController.java
+│  │              │  │      StudentFourController.java
+│  │              │  │      StudentSixController.java
+│  │              │  │      StudentThreeController.java
+│  │              │  │      StudentTwoController.java
+│  │              │  │
+│  │              │  └─policy
+│  │              │      │  Game.java
+│  │              │      │  Person.java
+│  │              │      │  Student.java
+│  │              │      │
+│  │              │      └─impl
+│  │              │              CF.java
+│  │              │              CS.java
+│  │              │              DNF.java
+│  │              │              LiSi.java
+│  │              │              XiaoGang.java
+│  │              │              XiaoMing.java
+│  │              │              XiaoQiang.java
+│  │              │              ZhangSan.java
+│  │              │
+│  │              └─token
+│  │                  ├─author
+│  │                  │      StpInterfaceImpl.java
+│  │                  │
+│  │                  ├─config
+│  │                  │      ParamsCheckedHandleConfigure.java
+│  │                  │      SaTokenConfigure.java
+│  │                  │
+│  │                  ├─controller
+│  │                  │      AuthorCheckedController.java
+│  │                  │      AuthorController.java
+│  │                  │      RoleController.java
+│  │                  │      UserController.java
+│  │                  │
+│  │                  ├─domain
+│  │                  │  ├─constant
+│  │                  │  │      Constant.java
+│  │                  │  │
+│  │                  │  ├─model
+│  │                  │  │      Model.java
+│  │                  │  │
+│  │                  │  ├─request
+│  │                  │  │  │  Request.java
+│  │                  │  │  │
+│  │                  │  │  └─dto
+│  │                  │  │          GameRequestDTO.java
+│  │                  │  │          LoginRequestDTO.java
+│  │                  │  │
+│  │                  │  └─response
+│  │                  │          Response.java
+│  │                  │
+│  │                  ├─exception
+│  │                  │      ParamsCheckedException.java
+│  │                  │
+│  │                  ├─function
+│  │                  │      ErrorFunction.java
+│  │                  │      ParamsCheckedFunction.java
+│  │                  │
+│  │                  ├─handle
+│  │                  │      ParamsCheckedInterceptor.java
+│  │                  │      WebExceptionHandle.java
+│  │                  │
+│  │                  └─util
+│  │                          ParamsCheckedUtil.java
+│  │
+│  └─resources
+│      │  application.properties
+│      │  Spring.xml
+│      │
+│      ├─log
+│      │      token-error.log
+│      │
+│      ├─static
+│      └─templates
 ```
 
 # 项目源码
