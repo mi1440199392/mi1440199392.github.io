@@ -1,6 +1,12 @@
-> **tree** 命令的功能是用于以树状图形式列出目录内容，帮助运维人员快速了解到目录的层级关系
-> 
-> 语法格式：**tree** [参数]
+# 语法
+
+<font face="幼圆">
+
+`tree` 命令的功能是用于以树状图形式列出目录内容，帮助运维人员快速了解到目录的层级关系
+
+</font>
+
+!> 语法格式：`tree` [参数]
 
 | 参数       | 描述                    |
 |----------|-----------------------|
@@ -26,12 +32,17 @@
 | -L       | 层级显示                  |
 
 
-> 参考实例:
+# 参考实例
+
+<font face="幼圆">
 
 显示当前目录下的文件层级情况:
 
 - -d  仅显示目录名称
 - -L 2 显示2层
+
+</font>
+
 
 
 ```shell
@@ -50,16 +61,8 @@
 │   ├── App-2022-09
 │   ├── app-demo-2022-09
 │   ├── app-demo-2022-10
-│   ├── app-demo-2022-11
-│   ├── app-demo-2022-12
-│   ├── biz-demo-2022-09
-│   ├── biz-demo-2022-10
-│   ├── biz-demo-2022-11
 │   ├── biz-demo-2022-12
 │   ├── bizerr-demo-2022-09
-│   ├── bizerr-demo-2022-10
-│   ├── bizerr-demo-2022-11
-│   ├── bizerr-demo-2022-12
 │   ├── BizerrLog-2022-08
 │   ├── BizerrLog-2022-09
 │   ├── BizLog-2022-08
@@ -67,25 +70,6 @@
 │   ├── error-demo-2022-09
 │   ├── error-demo-2022-10
 │   ├── error-demo-2022-11
-│   ├── error-demo-2022-12
-│   ├── sql-demo-2022-09
-│   ├── sql-demo-2022-10
-│   ├── sql-demo-2022-11
-│   ├── sql-demo-2022-12
-│   ├── SqlLog-2022-08
-│   ├── SqlLog-2022-09
-│   ├── syserr-demo-2022-09
-│   ├── syserr-demo-2022-10
-│   ├── syserr-demo-2022-11
-│   ├── syserr-demo-2022-12
-│   ├── SyserrLog-2022-08
-│   ├── SyserrLog-2022-09
-│   ├── trace-demo-2022-09
-│   ├── trace-demo-2022-10
-│   ├── trace-demo-2022-11
-│   ├── trace-demo-2022-12
-│   ├── TraceLog-2022-08
-│   └── TraceLog-2022-09
 ├── mq
 │   └── cache
 ├── scripts
