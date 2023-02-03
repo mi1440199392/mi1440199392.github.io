@@ -1,4 +1,12 @@
-# 仓库
+# <font face="华文隶书">仓库</font>
+
+<font face="华文隶书">
+
+规定文本的尺寸大小，取值范围为1~7 ，浏览器默认值是 3。注意，size=50也是可以显示的，但与7的字体大小一样
+git config --list
+
+</font>
+
 
 ```shell
 # 在当前目录新建一个Git代码库
@@ -11,7 +19,7 @@ $ git init [project-name]
 $ git clone [url]
 ```
 
-# 配置
+# <font face="华文隶书">配置</font>
 
 ```shell
 # 显示当前的Git配置
@@ -25,7 +33,7 @@ $ git config [--global] user.name "[name]"
 $ git config [--global] user.email "[email address]"
 ```
 
-# 增加/删除文件
+# <font face="华文隶书">增加/删除文件</font>
 
 ```shell
 # 添加指定文件到暂存区
@@ -51,7 +59,7 @@ $ git rm --cached [file]
 $ git mv [file-original] [file-renamed]
 ```
 
-# 代码提交
+# <font face="华文隶书">代码提交</font>
 
 ```shell
 # 提交暂存区到仓库区
@@ -74,7 +82,7 @@ $ git commit --amend -m [message]
 $ git commit --amend [file1] [file2] ...
 ```
 
-# 分支
+# <font face="华文隶书">分支</font>
 
 ```shell
 # 列出所有本地分支
@@ -121,7 +129,7 @@ $ git push origin --delete [branch-name]
 $ git branch -dr [remote/branch]
 ```
 
-# 标签
+# <font face="华文隶书">标签</font>
 
 ```shell
 # 列出所有tag
@@ -152,7 +160,7 @@ $ git push [remote] --tags
 $ git checkout -b [branch] [tag]
 ```
 
-# 查看信息
+# <font face="华文隶书">查看信息</font>
 
 ```shell
 # 显示有变更的文件
@@ -217,7 +225,7 @@ $ git show [commit]:[filename]
 $ git reflog
 ```
 
-# 远程同步
+# <font face="华文隶书">远程同步</font>
 
 ```shell
 # 下载远程仓库的所有变动
@@ -245,7 +253,7 @@ $ git push [remote] --force
 $ git push [remote] --all
 ```
 
-# 撤销
+# <font face="华文隶书">撤销</font>
 
 ```shell
 # 恢复暂存区的指定文件到工作区
@@ -281,12 +289,12 @@ $ git stash
 $ git stash pop
 ```
 
-# 其它
+# <font face="华文隶书">其它</font>
 
 ```shell
 # 生成一个可供发布的压缩包
 $ git archive
 ```
 
-!> (常用 **Git** 命令清单) 更多查看 [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+!> 更多查看 [`git`教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
