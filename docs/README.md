@@ -1,2 +1,2 @@
-![](/assets/img/sapiens1.png)
+![](/assets/img/sapiens2.png)
 
