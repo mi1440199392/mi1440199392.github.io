@@ -78,7 +78,7 @@
 
 ##### 📔 笔记篇
 
-- [<font face="幼圆"> 修改`idea64.exe.vmoptions`，导致`idea`打不开 </font>](/md/Note/Note02.md)
+- [<font face="幼圆"> 修改idea64.exe.vmoptions，导致idea打不开 </font>](/md/Note/Note02.md)
 - [Git 常用命令](/md/Note/Note03.md)
 
 ##### 📗 服务器篇
