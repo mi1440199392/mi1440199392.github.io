@@ -77,15 +77,8 @@
     - [JS实现延时刷新](/md/Web/Web01.md)
 
 - :notebook_with_decorative_cover: 笔记篇
-    
-    - [IDEA查看字节码](/md/Note/IDEA查看字节码.md)
-    - [IDEA大于等于，不等于、小于等于等等符号设置](/md/Note/IDEA大于等于，不等于、小于等于等等符号设置.md)
-    - [开发扩展](/md/Note/开发扩展.md)
-    - [解决Idea启动创建索引导致卡机的问题](/md/Note/解决Idea启动创建索引导致卡机的问题.md)
-    - [IDEA一直indexing......导致界面卡顿不动解决](/md/Note/IDEA一直indexing......导致界面卡顿不动解决.md)
-    - [Idea编写Json字符串的技巧](/md/Note/Idea编写Json字符串的技巧.md)
-    - [windows10 SHH连接服务器](/md/Note/Note01.md)
-    - [IntelliJ IDEA 修改 idea64.exe.vmoptions 文件配置，导致软件打不开错误](/md/Note/Note02.md)
+
+    - [<font face="幼圆"> 修改`idea64.exe.vmoptions`，导致`idea`打不开 </font>](/md/Note/Note02.md)
     - [Git 常用命令](/md/Note/Note03.md)
 
 - :green_book: 服务器篇
