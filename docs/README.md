@@ -1,2 +1,2 @@
-![](/assets/img/团队协作.png)
+![](/assets/img/sapiens1.png)
 
