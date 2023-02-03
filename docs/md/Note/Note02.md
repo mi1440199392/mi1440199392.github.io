@@ -1,4 +1,4 @@
-# <font face="幼圆">背景</font>
+# 背景
 
 <font face="幼圆">
 
@@ -7,7 +7,7 @@
 
 </font>
 
-# <font face="幼圆">解决</font>
+# 解决
 
 <font face="幼圆">
 
@@ -17,7 +17,7 @@
 
 </font>
 
-# <font face="幼圆">idea编译慢解决</font>
+# idea编译慢解决
 
 > Shared build process heap size (Mbytes) 共享构建过程堆大小(兆字节)
 
