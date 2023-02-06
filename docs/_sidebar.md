@@ -54,7 +54,7 @@
     - [实现 Bean 的定义、注册、获取](/md/Java/Java45.md)
     - [基于 Cglib 和 JDK 实现含构造函数的类实例化策略](/md/Java/Java46.md)
     - [为 Bean 对象注入属性和依赖 Bean 的功能实现](/md/Java/Java47.md)
-    - [SpringBoot事务-失效的情况](/md/Java/Java48.md)
+    - [SpringBoot 事务失效](/md/Java/Java48.md)
     - [设计与实现资源加载器，从 Spring.xml 解析和注册 Bean 对象](/md/Java/Java49.md)
     - [实现应用上下文，自动识别、资源加载、扩展机制](/md/Java/Java50.md)
     - [实现Bean对象的初始化和销毁方法](/md/Java/Java51.md)
