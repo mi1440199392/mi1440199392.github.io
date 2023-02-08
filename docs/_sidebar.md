@@ -1,5 +1,5 @@
 - :blue_book: 数据库篇
-    
+
     - [大众点评订单系统分库分表实践](/md/DataBase/大众点评订单系统分库分表实践.md)
     - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
     - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)
@@ -72,7 +72,8 @@
     - [自定义 HandlerInterceptor 拦截器 - 参数校验](/md/Java/Java63.md)
     - [SpringBoot 自定义项目启动、关闭的监听](/md/Java/Java64.md)
     - [模拟定期刷新缓存](/md/Java/Java65.md)
-    
+    - [Runtime类 - 注册虚拟机钩子](/md/Java/Java66.md)
+
 - :orange_book: 前端篇
 
     - [npm 删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
