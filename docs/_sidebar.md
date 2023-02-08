@@ -73,6 +73,7 @@
     - [SpringBoot 自定义项目启动、关闭的监听](/md/Java/Java64.md)
     - [模拟定期刷新缓存](/md/Java/Java65.md)
     - [Runtime类 - 注册虚拟机钩子](/md/Java/Java66.md)
+    - [Runtime类 - Java虚拟机的处理器数量](/md/Java/Java67.md)
 
 - :orange_book: 前端篇
 
