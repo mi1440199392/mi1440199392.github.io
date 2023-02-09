@@ -1,9 +1,14 @@
 # 语法
 
+<font face="幼圆">
+
 - unzip -l apache-demo-3.7.0.0-SNAPSHOT.jar | grep platform
 - zipinfo apache-demo-3.7.0.0-SNAPSHOT.jar | grep platform
 - jar vtf apache-demo-3.7.0.0-SNAPSHOT.jar | grep platform
 - zipinfo -M apache-demo-3.7.0.0-SNAPSHOT.jar | grep platform   以分页形式显示内容
+
+
+</font>
 
 # 查看 jar 包指定依赖的版本
 
