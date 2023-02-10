@@ -74,6 +74,7 @@
     - [模拟定期刷新缓存](/md/Java/Java65.md)
     - [Runtime类 - 注册虚拟机钩子](/md/Java/Java66.md)
     - [Runtime类 - Java虚拟机的处理器数量](/md/Java/Java67.md)
+    - [模拟数据库读取配置 BeanDefinition，反射执行 Bean 方法](/md/Java/Java68.md)
 
 - :orange_book: 前端篇
 
