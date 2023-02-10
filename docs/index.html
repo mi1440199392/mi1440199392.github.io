@@ -13,11 +13,6 @@
     .pagination-item--next, .pagination-item--previous {
       display: none;
     }
-
-    :root {
-      --docsifytabs-border-color: #ededed;
-      --docsifytabs-tab-highlight-color: purple;
-    }
   </style>
 </head>
 <body>
@@ -40,13 +35,6 @@
         placeholder: '🔍 搜索 ',
         noData: '😞 找不到结果',
         depth: 6
-      },
-      tabs: {
-        persist    : true,      // default
-        sync       : true,      // default
-        theme      : 'classic', // default
-        tabComments: true,      // default
-        tabHeadings: true       // default
       }
     }
   </script>
@@ -66,7 +54,5 @@
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 <!-- 侧边栏折叠: 第三方插件 -->
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-<!-- 这个插件用来在 Markdown 中显示选项卡 -->
-<script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
