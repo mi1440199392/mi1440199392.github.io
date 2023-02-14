@@ -52,6 +52,8 @@
   * [蚂蚁导航](https://www.mayidh.net/)
   * [佛系软件](https://foxirj.com/)
   * [阿萨姆软件](https://www.sssam.com/)
+  * [阿里云](https://cn.aliyun.com)
+  * [数据库教程](https://www.sjkjc.com/)
 
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
