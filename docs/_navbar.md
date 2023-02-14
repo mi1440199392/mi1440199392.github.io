@@ -26,6 +26,7 @@
   * [XXL开源社区](https://www.xuxueli.com/blog/)
   * [书栈网-开源编程书籍](https://www.bookstack.cn/)
   * [Sa-Token - Java权限认证框架](https://sa-token.cc/doc.html#/)
+  * [QuickReference - 开发人员速查表](https://quickref.me/zh-CN/index.html)
   
 * 📦 面试宝典
   
