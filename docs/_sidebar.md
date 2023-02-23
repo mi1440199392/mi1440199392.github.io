@@ -74,6 +74,7 @@
     - [Runtime类 - 注册虚拟机钩子](/md/Java/100/Java66.md)
     - [Runtime类 - Java虚拟机的处理器数量](/md/Java/100/Java67.md)
     - [模拟数据库读取配置 BeanDefinition，反射执行 Bean 方法](/md/Java/100/Java68.md)
+    - [垃圾回收前，运行对象的终结方法finalize()](/md/Java/100/Java69.md)
 
 - :orange_book: 前端篇
 
