@@ -30,14 +30,14 @@
   
 * 📦 面试宝典
   
-  * [博客网站搭建](https://docsify.js.org/#/)
+  * [博客搭建](https://docsify.js.org/#/)
   * [Emoji表情大全](https://emojixd.com/)
   * [RGB颜色对照表](https://tool.oschina.net/commons?type=3)
   * [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
   * [Google插件](https://www.crx4chrome.com/)
-  * [Arthas诊断工具](https://arthas.aliyun.com/doc/index.html)
+  * [Arthas - Alibaba开源Java诊断工具](https://arthas.aliyun.com/doc/index.html)
   * [Idea历史版本](https://www.jetbrains.com/idea/download/other.html)
-  * [思维导图](https://www.processon.com/)
+  * [笔记软件](https://leon21.notion.site/02f5e85d06674d988ae5072f49f29863)
   * [EasyExcel文档](https://easyexcel.opensource.alibaba.com/)
   * [Linux命令大全手册](https://www.linuxcool.com/)
 
