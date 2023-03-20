@@ -79,6 +79,7 @@
     - [Object类中的协调支持](/md/Java/100/Java70.md)
     - [封装DTO对象数据单位转换工具类](/md/Java/100/Java71.md)
     - [springBoot-web内置统一请求类和响应类](/md/Java/100/Java72.md)
+    - [log4j2日志框架入门](/md/Java/100/Java73.md)
 
 - :orange_book: 前端篇
 
