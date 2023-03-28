@@ -95,7 +95,6 @@
 
     - [修改 idea64.exe.vmoptions，导致 idea 打不开](/md/Note/Note02.md)
     - [git 常用命令](/md/Note/Note03.md)
-    - [Java成长体系](/md/Note/Note04.md)
 
 - :green_book: 服务器篇
 
