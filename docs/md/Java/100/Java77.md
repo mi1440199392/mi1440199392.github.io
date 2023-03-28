@@ -114,9 +114,7 @@ void threadTerminated(Thread t) {
             // 唤醒等待线程
             notifyAll();
         }
-        if (daemon && (nthreads == 0) &&
-            (nUnstartedThreads == 0) && (ngroups == 0))
-        {
+        if (daemon && (nthreads == 0) && (nUnstartedThreads == 0) && (ngroups == 0)) {
             destroy();
         }
     }
