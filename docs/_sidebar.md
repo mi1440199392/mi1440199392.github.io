@@ -83,6 +83,7 @@
     - [对象copy工具类ObjectUtil](/md/Java/100/Java74.md)
     - [整合dom4j, 解析xml字符串, 转JSON格式](/md/Java/100/Java75.md)
     - [spring-boot集成websocket](/md/Java/100/Java76.md)
+    - [Thread.join()的使用](/md/Java/100/Java77.md)
 
 - :orange_book: 前端篇
 
