@@ -9,7 +9,7 @@
   * [Element-plus](https://element-plus.gitee.io/zh-CN/)
   * [Idea激活](https://www.jiweichengzhu.com/)
   * [驼峰转下划线](https://www.bejson.com/convert/camel_underscore/)
-  * [在线随机身份证号码生成](http://sfz.uzuzuz.com/)
+  * [在线身份证号码生成](http://sfz.uzuzuz.com/)
   * [常用正则大全](https://any86.github.io/any-rule/)
   * [图欧学习资源库](https://tuostudy.com/)
   * [Java充电社](http://itsoku.com/)
@@ -24,8 +24,8 @@
   * [虫洞栈](https://bugstack.cn/)
   * [正则表达式-语法](https://www.runoob.com/regexp/regexp-syntax.html)
   * [XXL开源社区](https://www.xuxueli.com/blog/)
-  * [书栈网-开源编程书籍](https://www.bookstack.cn/)
-  * [Sa-Token - Java权限认证框架](https://sa-token.cc/doc.html#/)
+  * [书栈网 | 开源编程书籍](https://www.bookstack.cn/)
+  * [Sa-Token | Java权限认证框架](https://sa-token.cc/doc.html#/)
   * [QuickReference - 开发人员速查表](https://quickref.me/zh-CN/index.html)
   
 * 📦 面试宝典
@@ -35,7 +35,7 @@
   * [RGB颜色对照表](https://tool.oschina.net/commons?type=3)
   * [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
   * [Google插件](https://www.crx4chrome.com/)
-  * [Arthas - Alibaba开源Java诊断工具](https://arthas.aliyun.com/doc/index.html)
+  * [Arthas | Alibaba开源Java诊断工具](https://arthas.aliyun.com/doc/index.html)
   * [Idea历史版本](https://www.jetbrains.com/idea/download/other.html)
   * [笔记软件](https://leon21.notion.site/02f5e85d06674d988ae5072f49f29863)
   * [EasyExcel文档](https://easyexcel.opensource.alibaba.com/)
