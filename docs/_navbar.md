@@ -37,7 +37,6 @@
   * [Google插件](https://www.crx4chrome.com/)
   * [Arthas | Alibaba开源Java诊断工具](https://arthas.aliyun.com/doc/index.html)
   * [Idea历史版本](https://www.jetbrains.com/idea/download/other.html)
-  * [笔记软件](https://leon21.notion.site/02f5e85d06674d988ae5072f49f29863)
   * [EasyExcel文档](https://easyexcel.opensource.alibaba.com/)
   * [Linux命令大全手册](https://www.linuxcool.com/)
 
