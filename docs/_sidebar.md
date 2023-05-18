@@ -1,4 +1,4 @@
-- :blue_book: 数据库篇
+- :blue_book: 数据库
 
     - [大众点评订单系统分库分表实践](/md/DataBase/大众点评订单系统分库分表实践.md)
     - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
@@ -6,7 +6,7 @@
     - [MySQL锁表](/md/DataBase/db002.md)
     - [MySQL聚合函数 - GROUP_CONCAT语法](/md/DataBase/db003.md)
 
-- :ledger: 后端篇
+- :ledger: 后端
 
     - [Java线程池实现原理及其在美团业务中的实践](/md/Java/100/Java01.md)
     - [并发工具之Semaphore与Exchanger](/md/Java/100/Java02.md)
@@ -93,17 +93,20 @@
     - [JDK并发工具类Semaphore](/md/Java/100/Java84.md)
     - [springBoot发送邮件入门](/md/Java/100/Java85.md)
 
-- :orange_book: 前端篇
+- :orange_book: 前端
 
     - [npm 删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
     - [js 延时刷新](/md/Web/Web01.md)
 
-- :notebook_with_decorative_cover: 笔记篇
+- :notebook_with_decorative_cover: 笔记
 
     - [修改 idea64.exe.vmoptions，导致 idea 打不开](/md/Note/Note02.md)
     - [git 常用命令](/md/Note/Note03.md)
 
-- :green_book: 服务器篇
+- :green_book: 服务器
 
     - [tree 命令 – 树结构列出目录内容](/md/Linux/Linux01.md)
     - [查看 jar 包指定依赖版本](/md/Linux/Linux02.md)
+- :closed_book: 杂文
+
+    - [世说新语 • 言语〔庞统与司马徽对话〕](/md/Text/100/Text01.md)
