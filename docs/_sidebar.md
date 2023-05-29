@@ -5,6 +5,7 @@
     - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)
     - [MySQL锁表](/md/DataBase/db002.md)
     - [MySQL聚合函数 - GROUP_CONCAT语法](/md/DataBase/db003.md)
+    - [业务表序列号生成方案](/md/DataBase/db004.md)
 
 - :ledger: 后端
 
