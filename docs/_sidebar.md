@@ -92,6 +92,7 @@
     - [JDK并发工具类Exchanger](/md/Java/100/Java83.md)
     - [JDK并发工具类Semaphore](/md/Java/100/Java84.md)
     - [springBoot发送邮件入门](/md/Java/100/Java85.md)
+    - [slf4j包, MessageFormatter字符串格式化](/md/Java/100/Java86.md)
 
 - :orange_book: 前端
 
