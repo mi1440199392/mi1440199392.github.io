@@ -26,3 +26,8 @@ public class Main {
     }
 }
 ```
+
+```shell
+formatted = 打印日志 = hello world
+formatMessage = aaabbbccc
+```
