@@ -116,3 +116,9 @@
     - [世说新语 • 言语〔庞统与司马徽对话〕](/md/Text/100/Text01.md)
     - [世说新语 • 言语〔孔文举系列〕](/md/Text/100/Text02.md)
     - [世说新语 • 言语〔李喜系列〕](/md/Text/100/Text03.md)
+
+- :postbox: 技术专栏
+    
+    - [阿里巴巴大淘宝技术](/md/News/10/News01.md)
+    - [京东云技术团队](/md/News/10/News02.md)
+    - [其他](/md/News/10/News03.md)
