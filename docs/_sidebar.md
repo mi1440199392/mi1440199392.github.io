@@ -119,6 +119,6 @@
 
 - :postbox: 技术专栏
     
-    - [阿里巴巴大淘宝技术](/md/News/10/News01.md "")
+    - [阿里巴巴大淘宝技术](/md/News/10/News01.md "la")
     - [京东云技术团队](/md/News/10/News02.md "")
     - [其他](/md/News/10/News03.md "")
