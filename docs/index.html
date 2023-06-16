@@ -16,6 +16,9 @@
     .pagination-item--next, .pagination-item--previous {
       display: none;
     }
+    .body {
+
+    }
   </style>
 </head>
 <body>
@@ -33,6 +36,7 @@
       maxLevel: 6,
       subMaxLevel: 6,
       themeColor: '#42b983',
+      disqus: 'shortname',
       search: {
         paths: 'auto',
         placeholder: '🔍 搜索 ',
@@ -57,5 +61,7 @@
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 <!-- 侧边栏折叠: 第三方插件 -->
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<!-- 评论系统 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
 </body>
 </html>
