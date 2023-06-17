@@ -39,6 +39,7 @@
   * [Idea历史版本](https://www.jetbrains.com/idea/download/other.html)
   * [EasyExcel文档](https://easyexcel.opensource.alibaba.com/)
   * [Linux命令大全手册](https://www.linuxcool.com/)
+  * [红黑树 | 动画演示](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 * 📖 资源推荐
   * [A姐精品资源分享](https://www.ahhhhfs.com/)
