@@ -6,6 +6,7 @@
     - [MySQL锁表](/md/DB/10/002.md)
     - [MySQL聚合函数 - GROUP_CONCAT语法](/md/DB/10/003.md)
     - [业务表序列号生成方案](/md/DB/10/004.md)
+    - [字典表设计及实现](/md/DB/10/007.md)
 
 - :ledger: 后端
 
