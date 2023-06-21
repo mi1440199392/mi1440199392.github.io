@@ -1,11 +1,11 @@
 - :blue_book: 数据库
 
-    - [大众点评订单系统分库分表实践](/md/DataBase/大众点评订单系统分库分表实践.md)
-    - [MySQL插入语句解决唯一键约束](/md/DataBase/MySQL插入语句解决唯一键约束.md)
-    - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DataBase/db001.md)
-    - [MySQL锁表](/md/DataBase/db002.md)
-    - [MySQL聚合函数 - GROUP_CONCAT语法](/md/DataBase/db003.md)
-    - [业务表序列号生成方案](/md/DataBase/db004.md)
+    - [大众点评订单系统分库分表实践](/md/DB/10/006.md)
+    - [MySQL插入语句解决唯一键约束](/md/DB/10/005.md)
+    - [Mysql字符串截取总结：Left()、Right()、Substring()、Substring_index()](/md/DB/10/001.md)
+    - [MySQL锁表](/md/DB/10/002.md)
+    - [MySQL聚合函数 - GROUP_CONCAT语法](/md/DB/10/003.md)
+    - [业务表序列号生成方案](/md/DB/10/004.md)
 
 - :ledger: 后端
 
