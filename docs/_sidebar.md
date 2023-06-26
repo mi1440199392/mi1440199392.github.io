@@ -98,6 +98,7 @@
     - [组合过滤器Filter](/md/Java/100/Java88.md)
     - [Character 判断字符是否为空格](/md/Java/100/Java89.md)
     - [Map接口解析](/md/Java/100/Java90.md)
+    - [伪代码模拟链表结构](/md/Java/100/Java91.md)
 
 - :orange_book: 前端
 
