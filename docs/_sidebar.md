@@ -101,8 +101,8 @@
 
 - :orange_book: 前端
 
-    - [npm 删除依赖和清理缓存](/md/Web/Npm删除依赖和清理缓存.md)
-    - [js 延时刷新](/md/Web/Web01.md)
+    - [npm 删除依赖和清理缓存](/md/Web/10/001.md)
+    - [js 延时刷新](/md/Web/10/002.md)
 
 - :notebook_with_decorative_cover: 笔记
 
