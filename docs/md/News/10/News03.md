@@ -18,6 +18,7 @@
   - [MySQL面试：left join我要怎优化？](https://zhuanlan.zhihu.com/p/539311633)
   - [mysql 中如何进行联合索引优化？](https://www.zhihu.com/question/591117933/answer/3017147198)
   - [MySQL 的查询速度如何提升？](https://www.zhihu.com/question/590917119/answer/3056451196)
+  - [实战 SQL：销售数据的小计/合计/总计以及数据透视表](https://blog.csdn.net/horses/article/details/105246162)
 
 # Redis系列
 
