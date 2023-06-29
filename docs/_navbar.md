@@ -55,6 +55,7 @@
   * [阿萨姆软件](https://www.sssam.com/)
   * [阿里云](https://cn.aliyun.com)
   * [数据库教程](https://www.sjkjc.com/)
+  * [MySQL 8.0 中文参考手册](https://mysql.net.cn/)
 
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)

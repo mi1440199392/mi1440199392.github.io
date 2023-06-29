@@ -21,6 +21,13 @@
   - [MySQL 的查询速度如何提升？](https://www.zhihu.com/question/590917119/answer/3056451196)
   - [实战 SQL：销售数据的小计/合计/总计以及数据透视表](https://blog.csdn.net/horses/article/details/105246162)
   - [SQL经典练习：电脑商店](https://blog.csdn.net/horses/article/details/89043538)
+  - [某互联网公司数据分析岗 SQL 笔试题](https://blog.csdn.net/horses/article/details/121150403)
+  - [【解读】阿里巴巴 MySQL 数据库规约](https://blog.csdn.net/horses/article/details/120941552)
+  - [细说 MySQL 创建表的三种方法](https://blog.csdn.net/horses/article/details/119720521)
+  - [MySQL 十大常用字符串函数](https://blog.csdn.net/horses/article/details/118344265)
+  - [MySQL 避坑指南之隐式数据类型转换](https://blog.csdn.net/horses/article/details/118120395)
+  - [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
+  - [MySQL 8.0 新特性之隐藏字段](https://blog.csdn.net/horses/article/details/113838642)
 
 # Redis系列
 
