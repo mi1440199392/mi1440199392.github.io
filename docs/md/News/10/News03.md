@@ -10,6 +10,7 @@
   - [Java 上百万的数据量如何导出到 excel 文件？](https://www.zhihu.com/question/266128152/answer/2899625998)
   - [如何去阅读并学习一些优秀的开源框架的源码？](https://www.zhihu.com/question/26766601/answer/2297192544)
   - [【一看就懂】数据结构以及各种算法的可视化演示工具](https://blog.csdn.net/horses/article/details/120385749)
+  - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
 
 # MySQL系列
 
@@ -28,6 +29,7 @@
   - [MySQL 避坑指南之隐式数据类型转换](https://blog.csdn.net/horses/article/details/118120395)
   - [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
   - [MySQL 8.0 新特性之隐藏字段](https://blog.csdn.net/horses/article/details/113838642)
+  - [由浅入深了解MySQL底层查询逻辑](https://juejin.cn/post/7243819890497945659)
 
 # Redis系列
 
@@ -38,3 +40,8 @@
 
 - 🍀 Tomcat系列
   - [为什么要有 Servlet ，什么是 Servlet 容器，什么是 Web 容器？](https://www.zhihu.com/question/585070524/answer/2939949226)
+
+# MyBatis系列
+
+- 🍀 MyBatis系列
+  - [深入理解 MyBatis](https://juejin.cn/post/7124465530701873183#heading-13)
