@@ -11,6 +11,7 @@
   - [如何去阅读并学习一些优秀的开源框架的源码？](https://www.zhihu.com/question/26766601/answer/2297192544)
   - [【一看就懂】数据结构以及各种算法的可视化演示工具](https://blog.csdn.net/horses/article/details/120385749)
   - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
+  - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
 
 # MySQL系列
 
@@ -41,7 +42,17 @@
 - 🍀 Tomcat系列
   - [为什么要有 Servlet ，什么是 Servlet 容器，什么是 Web 容器？](https://www.zhihu.com/question/585070524/answer/2939949226)
 
+# JVM系列
+
+- 🍀 JVM系列
+  - [常见的 jvm 调优的参数有哪些?](https://www.zhihu.com/question/588988401/answer/3012030394)
+
 # MyBatis系列
 
 - 🍀 MyBatis系列
   - [深入理解 MyBatis](https://juejin.cn/post/7124465530701873183#heading-13)
+
+# Spring系列
+
+- 🍀 Spring系列
+  - [SpringBoot可以同时处理多少请求？](https://juejin.cn/post/7203648441721126972)
