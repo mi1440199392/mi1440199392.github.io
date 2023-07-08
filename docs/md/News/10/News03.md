@@ -11,7 +11,6 @@
   - [如何去阅读并学习一些优秀的开源框架的源码？](https://www.zhihu.com/question/26766601/answer/2297192544)
   - [【一看就懂】数据结构以及各种算法的可视化演示工具](https://blog.csdn.net/horses/article/details/120385749)
   - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
-  - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
 
 # MySQL系列
 
