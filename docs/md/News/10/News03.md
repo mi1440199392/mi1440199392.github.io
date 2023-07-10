@@ -61,3 +61,4 @@
 - 🍀 并发编程系列
   - [为什么说ReentrantLock是悲观锁呢？](https://www.zhihu.com/question/527785982/answer/3102913513)
   - [JUC中的LockSupport工具类](http://itsoku.com/course/1/14)
+  - [线程6种状态详解](http://itsoku.com/course/1/187)
