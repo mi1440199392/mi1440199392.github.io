@@ -122,6 +122,7 @@
     - [世说新语 • 言语〔孔文举系列〕](/md/Text/100/Text02.md)
     - [世说新语 • 言语〔李喜系列〕](/md/Text/100/Text03.md)
     - [毛选 • 老照片](/md/Text/100/Text04.md)
+    - [毛泽东选集 • 第七卷](/md/Text/100/Text05.md)
 
 - :postbox: 技术专栏
     
