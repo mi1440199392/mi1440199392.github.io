@@ -30,14 +30,14 @@ public class CloneObjectDemo_01 implements Cloneable {
 
 	public static void main(String[] args) throws Exception {
 
-		// 深拷贝前对象
+		// 浅拷贝前对象
 		CloneObjectDemo_01 cloneObjectDemo_02 = new CloneObjectDemo_01();
 		cloneObjectDemo_02.setSubObj(new SubObj());
 		System.out.println(cloneObjectDemo_02.hashCode());
 		System.out.println(cloneObjectDemo_02 + "\n");
 
 
-		// 深拷贝后对象
+		// 浅拷贝后对象
 		CloneObjectDemo_01 clone = (CloneObjectDemo_01) cloneObjectDemo_02.clone();
 		clone.getSubObj().setCode(500);
 		clone.getSubObj().setMsg("失败");
