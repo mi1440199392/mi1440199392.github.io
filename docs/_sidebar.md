@@ -101,6 +101,7 @@
     - [伪代码模拟链表结构](/md/Java/100/Java91.md)
     - [计算 HashCode 的常用工具](/md/Java/100/Java92.md)
     - [对象的浅拷贝 和 深拷贝](/md/Java/100/Java93.md)
+    - [HashMap简单实现](/md/Java/100/Java94.md)
 
 - :orange_book: 前端
 
