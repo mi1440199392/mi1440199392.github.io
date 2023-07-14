@@ -62,3 +62,9 @@
   - [为什么说ReentrantLock是悲观锁呢？](https://www.zhihu.com/question/527785982/answer/3102913513)
   - [JUC中的LockSupport工具类](http://itsoku.com/course/1/14)
   - [线程6种状态详解](http://itsoku.com/course/1/187)
+
+# 技术博客
+
+- 🍀 技术博客
+  - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
+  - [图灵学院 • 周瑜的技术博客](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
