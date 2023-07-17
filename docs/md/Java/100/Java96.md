@@ -1454,6 +1454,24 @@ zhangSan
 
 # SpringAop 拦截
 
+## pom.xml
+
+```xml 
+<!--    aspectj    -->
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjrt</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjtools</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjweaver</artifactId>
+</dependency>
+```
+
 ## 定义 Bean
 
 ```java 
@@ -1732,6 +1750,24 @@ com.alibaba.frame.web.exception.BizException: 业务异常
 ```
 
 # SpringAop 实现消息重试
+
+## pom.xml
+
+```xml 
+<!--    aspectj    -->
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjrt</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjtools</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjweaver</artifactId>
+</dependency>
+```
 
 ## 定义 Bean
 
