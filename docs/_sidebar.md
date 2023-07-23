@@ -104,6 +104,7 @@
     - [HashMap简单实现](/md/Java/100/Java94.md)
     - [ArrayList源码解析](/md/Java/100/Java95.md)
     - [Spring框架应用](/md/Java/100/Java96.md)
+    - [Spring动态数据源切换 (AbstractRoutingDataSource)](/md/Java/100/Java97.md)
 
 - :orange_book: 前端
 
