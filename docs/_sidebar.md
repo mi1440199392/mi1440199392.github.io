@@ -106,6 +106,7 @@
     - [Spring框架应用](/md/Java/100/Java96.md)
     - [Spring动态数据源切换 (AbstractRoutingDataSource)](/md/Java/100/Java97.md)
     - [防重复提交](/md/Java/100/Java98.md)
+    - [断言工具类Assert](/md/Java/100/Java99.md)
 
 - :orange_book: 前端
 
