@@ -121,6 +121,7 @@
     - [解决 IDEA 拼写检查显示波浪线](/md/Note/100/001.md)
     - [jar 包安装到 maven 本地仓库](/md/Note/100/002.md)
     - [阿里云镜像-Maven中央代理仓库](/md/Note/100/003.md)
+    - [Maven settings 配置文件](/md/Note/100/004.md)
 
 - :green_book: 服务器
 
