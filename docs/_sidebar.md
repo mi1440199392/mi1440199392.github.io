@@ -119,6 +119,7 @@
     - [修改 idea64.exe.vmoptions，导致 idea 打不开](/md/Note/Note02.md)
     - [git 常用命令](/md/Note/Note03.md)
     - [解决 IDEA 拼写检查显示波浪线](/md/Note/100/001.md)
+    - [jar 包安装到 maven 本地仓库](/md/Note/100/002.md)
 
 - :green_book: 服务器
 
