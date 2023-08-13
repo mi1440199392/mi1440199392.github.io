@@ -122,6 +122,7 @@
     - [jar 包安装到 maven 本地仓库](/md/Note/100/002.md)
     - [阿里云镜像-Maven中央代理仓库](/md/Note/100/003.md)
     - [Maven settings 配置文件](/md/Note/100/004.md)
+    - [阿里巴巴开源镜像站](/md/Note/100/005.md)
 
 - :green_book: 服务器
 
