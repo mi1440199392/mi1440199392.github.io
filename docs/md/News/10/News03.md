@@ -11,6 +11,8 @@
   - [如何去阅读并学习一些优秀的开源框架的源码？](https://www.zhihu.com/question/26766601/answer/2297192544)
   - [【一看就懂】数据结构以及各种算法的可视化演示工具](https://blog.csdn.net/horses/article/details/120385749)
   - [浅谈幂等](https://juejin.cn/post/7241941309174300732)
+  - [既然有HTTP协议，为什么还要有RPC](https://blog.csdn.net/tianyaleixiaowu/article/details/127057253)
+  - [使用redis计数来控制单位时间内对某接口的访问量，防止刷验证码接口之类的](https://blog.csdn.net/tianyaleixiaowu/article/details/74549145)
 
 # MySQL系列
 
@@ -30,11 +32,14 @@
   - [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
   - [MySQL 8.0 新特性之隐藏字段](https://blog.csdn.net/horses/article/details/113838642)
   - [由浅入深了解MySQL底层查询逻辑](https://juejin.cn/post/7243819890497945659)
+  - [InnoDB一棵B+树可以存放多少行数据](https://blog.csdn.net/tianyaleixiaowu/article/details/94552675)
+  - [mysql事务（包括redo log，undo log，MVCC）及事务实现原理](https://blog.csdn.net/tianyaleixiaowu/article/details/102683638)
 
 # Redis系列
 
 - 🍀 Redis系列
   - [数据库和 Redis 双写数据一致性问题](https://www.zhihu.com/question/20734566/answer/3056703475)
+  - [redis 订阅(subscribe/psubscribe)和发布 (publish)](https://blog.csdn.net/yang_yang1994/article/details/78108617)
 
 # Tomcat系列
 
@@ -68,3 +73,7 @@
 - 🍀 技术博客
   - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
   - [图灵学院 • 周瑜的技术博客](https://www.yuque.com/renyong-jmovm/dadudu)
+
+# Nginx系列
+  - [Nginx的学习与使用](https://blog.csdn.net/weixin_44251179/article/details/129744652)
+  - [windows系统下安装Nginx以及简单使用](https://blog.csdn.net/weixin_44251179/article/details/129700793)
