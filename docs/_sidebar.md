@@ -109,6 +109,7 @@
     - [断言工具类Assert](/md/Java/100/Java99.md)
     - [SpringMVC 组件执行链路](/md/Java/100/Java100.md)
     - [Spring Bean 工具类](/md/Java/200/001.md)
+    - [自定义 beanName 生成 BeanNameGenerator](/md/Java/200/002.md)
 
 - :orange_book: 前端
 
