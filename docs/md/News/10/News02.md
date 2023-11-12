@@ -1,8 +1,4 @@
-<font face="幼圆">
-
-> 学习转载京东云技术团队技术干货和学习方法
-
-</font>
+> 京东云技术团队技术干货
 
 # 其他系列
 
@@ -16,11 +12,21 @@
 
   - [一种实现 Spring 动态数据源切换的方法](https://zhuanlan.zhihu.com/p/638122954)
   - [Spring 自定义参数解析器设计](https://zhuanlan.zhihu.com/p/621847142)
+  - [SpringBoot自动配置原理解析](https://mp.weixin.qq.com/s/OHdRRQl4FfqLLiEgC9gKbw)
+  - [从头到尾说一次 Spring 事务管理器](https://mp.weixin.qq.com/s/0X2BnZXfxauIb2-fVvHdFQ)
 
 # MySQL系列
 
   - [如何理解 Mysql 索引以及它的底层原理？](https://www.zhihu.com/question/436110377/answer/2970624631)
+  - [高性能MySQL实战（三）：性能优化](https://mp.weixin.qq.com/s/Azx89MO0TBL8vBfPgOBsTg)
+  - [高性能MySQL实战（一）：表结构](https://mp.weixin.qq.com/s/L9lKtXeSW8lnz8Kr7pcinQ)
+  - [分库分表之拆分键设计](https://mp.weixin.qq.com/s/loKtCKy-FSqEFG2hb17E0Q)
 
 # Nginx系列
 
   - [Nginx 常用配置及和基本功能讲解](https://zhuanlan.zhihu.com/p/624570911)
+
+# 并发编程系列
+
+  - [深入浅出线程池](https://mp.weixin.qq.com/s/I1pXYGi7hTpQ-8XCVKDvKg)
+  - [别再纠结线程池池大小、线程数量了，哪有什么固定公式](https://mp.weixin.qq.com/s/IdJhR7ANn3iCno1CVsF4WA)
