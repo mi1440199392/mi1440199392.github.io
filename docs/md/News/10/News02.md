@@ -22,6 +22,7 @@
   - [高性能MySQL实战（一）：表结构](https://mp.weixin.qq.com/s/L9lKtXeSW8lnz8Kr7pcinQ)
   - [分库分表之拆分键设计](https://mp.weixin.qq.com/s/loKtCKy-FSqEFG2hb17E0Q)
   - [高性能MySQL实战（二）：索引](https://mp.weixin.qq.com/s/xDnwLr5BprN6wfb3g2Y3wQ)
+  - [慢SQL性能优化，一条SQL的生命周期](https://mp.weixin.qq.com/s/2UoKIC_7KzJZC2Nta9HcCA)
 
 # Nginx系列
 
