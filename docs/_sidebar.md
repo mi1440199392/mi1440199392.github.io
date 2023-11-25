@@ -133,6 +133,8 @@
 
     - [tree 命令 – 树结构列出目录内容](/md/Linux/Linux01.md)
     - [查看 jar 包指定依赖版本](/md/Linux/Linux02.md)
+    - [指定读取文件中的第 n 行](/md/Linux/100/001.md)
+
 - :closed_book: 杂文
 
     - [世说新语 • 言语〔摘选〕](/md/Text/100/001.md)
