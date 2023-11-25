@@ -33,6 +33,7 @@
   - [如何在业务逻辑当中优雅引入重试机制](https://zhuanlan.zhihu.com/p/349017775)
   - [你是如何学习 Java 的？](https://www.zhihu.com/question/265634331/answer/2360227934)
   - [一文聊聊代码的可读性](https://mp.weixin.qq.com/s/Ou-fgkOLnTKtosLSJWBf8w)
+  - [分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/JzCHpIOiFVmBoAko58ZuGw)
 
 # Zookeeper系列
 
