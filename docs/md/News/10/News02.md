@@ -14,6 +14,7 @@
   - [Spring 自定义参数解析器设计](https://zhuanlan.zhihu.com/p/621847142)
   - [SpringBoot自动配置原理解析](https://mp.weixin.qq.com/s/OHdRRQl4FfqLLiEgC9gKbw)
   - [从头到尾说一次 Spring 事务管理器](https://mp.weixin.qq.com/s/0X2BnZXfxauIb2-fVvHdFQ)
+  - [SpringBoot 项目优雅实现读写分离](https://mp.weixin.qq.com/s/N15e7qYIE-L_Tu_uatqapQ)
 
 # MySQL系列
 
