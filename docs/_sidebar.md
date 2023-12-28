@@ -13,6 +13,7 @@
     - [事务性 Jdbc 访问](/md/DB/20/002.md)
     - [Spring 连接池](/md/DB/20/003.md)
     - [连接 MySQL URL 语法](/md/DB/20/004.md)
+    - [Java、JDBC 和 MySQL 类型](/md/DB/20/005.md)
 
 - :ledger: 后端
 
