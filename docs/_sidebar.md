@@ -12,6 +12,7 @@
     - [使用 Jdbc 连接器配置负载平衡](/md/DB/20/001.md)
     - [事务性 Jdbc 访问](/md/DB/20/002.md)
     - [Spring 连接池](/md/DB/20/003.md)
+    - [连接 MySQL URL 语法](/md/DB/20/004.md)
 
 - :ledger: 后端
 
