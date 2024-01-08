@@ -140,7 +140,7 @@
     - [Java HotSpot VM Options](/md/Note/100/007.md)
     - [telnet 连接 arthas](/md/Note/100/008.md)
 
-- :green_book: 服务器
+- :green_book: 运维
 
     - [tree 命令 – 树结构列出目录内容](/md/Linux/Linux01.md)
     - [查看 jar 包指定依赖版本](/md/Linux/Linux02.md)
