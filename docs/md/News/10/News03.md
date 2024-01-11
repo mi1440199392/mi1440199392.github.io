@@ -9,6 +9,7 @@
   - [既然有HTTP协议，为什么还要有RPC](https://blog.csdn.net/tianyaleixiaowu/article/details/127057253)
   - [使用redis计数来控制单位时间内对某接口的访问量，防止刷验证码接口之类的](https://blog.csdn.net/tianyaleixiaowu/article/details/74549145)
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
+  - [常用的下游容错手段及案例](https://mp.weixin.qq.com/s/Ji9XPdRTCLL20EeB6YxoWA)
 
 # MySQL系列
 
