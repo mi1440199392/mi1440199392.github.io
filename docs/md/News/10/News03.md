@@ -63,8 +63,14 @@
   - [图灵学院 • 周瑜的技术博客](https://www.yuque.com/renyong-jmovm/dadudu)
 
 # Nginx系列
+
   - [Nginx的学习与使用](https://blog.csdn.net/weixin_44251179/article/details/129744652)
   - [windows系统下安装Nginx以及简单使用](https://blog.csdn.net/weixin_44251179/article/details/129700793)
 
 # 消息队列
+
   - [思维训练 —— 怎样设计一个MQ](https://mp.weixin.qq.com/s/22zWcu_4dvpGhdsYbpoZFA)
+
+# 架构设计
+
+  - [DDD、SOA、微服务和微内核](https://mp.weixin.qq.com/s/Ex2YSEJDefckMVqw3XmFmQ)
