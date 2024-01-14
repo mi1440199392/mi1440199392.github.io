@@ -31,6 +31,7 @@
   - [由浅入深了解MySQL底层查询逻辑](https://juejin.cn/post/7243819890497945659)
   - [InnoDB一棵B+树可以存放多少行数据](https://blog.csdn.net/tianyaleixiaowu/article/details/94552675)
   - [mysql事务（包括redo log，undo log，MVCC）及事务实现原理](https://blog.csdn.net/tianyaleixiaowu/article/details/102683638)
+  - [一个Mysql事务隔离级别和一个MQ异步转同步问题](https://mp.weixin.qq.com/s/NIw8dxzDx7gsaj7cDSYZLg)
 
 # Redis系列
 
