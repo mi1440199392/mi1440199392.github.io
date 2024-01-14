@@ -77,3 +77,4 @@
 # 架构设计
 
   - [DDD、SOA、微服务和微内核](https://mp.weixin.qq.com/s/Ex2YSEJDefckMVqw3XmFmQ)
+  - [高并发场景系统设计的时候应该怎么考虑?](https://mp.weixin.qq.com/s/pHT8p7xXHHSuDp9IImvtjg)
