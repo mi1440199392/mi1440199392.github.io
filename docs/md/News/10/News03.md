@@ -41,6 +41,7 @@
 # Tomcat系列
 
   - [为什么要有 Servlet ，什么是 Servlet 容器，什么是 Web 容器？](https://www.zhihu.com/question/585070524/answer/2939949226)
+  - [Tomcat 架构原理解析到架构设计借鉴](https://mp.weixin.qq.com/s/Nsu0_SEA1VyiSD3g07Muow)
 
 # JVM系列
 
