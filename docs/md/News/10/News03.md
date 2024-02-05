@@ -74,6 +74,7 @@
 # 消息队列
 
   - [思维训练 —— 怎样设计一个MQ](https://mp.weixin.qq.com/s/22zWcu_4dvpGhdsYbpoZFA)
+  - [如何保证 RabbitMQ 消息不丢失？](https://mp.weixin.qq.com/s/tKARjiybVGnwOqIoy5wB-w)
 
 # 架构设计
 
