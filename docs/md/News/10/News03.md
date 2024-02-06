@@ -60,6 +60,7 @@
   - [为什么说ReentrantLock是悲观锁呢？](https://www.zhihu.com/question/527785982/answer/3102913513)
   - [JUC中的LockSupport工具类](http://itsoku.com/course/1/14)
   - [线程6种状态详解](http://itsoku.com/course/1/187)
+  - [图解ReentrantLock的基石AQS源码-独占锁的获取与释放](https://mp.weixin.qq.com/s/yQwU-qQHEKvOwzEmXUm_XQ)
 
 # 技术博客
 
