@@ -11,6 +11,7 @@
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
   - [常用的下游容错手段及案例](https://mp.weixin.qq.com/s/Ji9XPdRTCLL20EeB6YxoWA)
   - [微创新与稳定性的权衡](https://mp.weixin.qq.com/s/J3zL0PErvIahAifVPlMAJA)
+  - [如何优雅地重试](https://juejin.cn/post/6914091859463634951)
 
 # MySQL系列
 
