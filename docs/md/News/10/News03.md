@@ -38,6 +38,7 @@
 
   - [数据库和 Redis 双写数据一致性问题](https://www.zhihu.com/question/20734566/answer/3056703475)
   - [redis 订阅(subscribe/psubscribe)和发布 (publish)](https://blog.csdn.net/yang_yang1994/article/details/78108617)
+  - [Redis主从复制原理](https://mp.weixin.qq.com/s/QTbWHQzyXTEVkNCFe5887g)
 
 # Tomcat系列
 
