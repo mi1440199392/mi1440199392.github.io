@@ -12,6 +12,7 @@
   - [常用的下游容错手段及案例](https://mp.weixin.qq.com/s/Ji9XPdRTCLL20EeB6YxoWA)
   - [微创新与稳定性的权衡](https://mp.weixin.qq.com/s/J3zL0PErvIahAifVPlMAJA)
   - [如何优雅地重试](https://juejin.cn/post/6914091859463634951)
+  - [订单超时自动取消如何实现？](https://mp.weixin.qq.com/s/9zdNnP5B4URqmqnfz1389A)
 
 # MySQL系列
 
