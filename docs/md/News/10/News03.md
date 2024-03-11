@@ -87,6 +87,7 @@
   - [高并发场景系统设计的时候应该怎么考虑?](https://mp.weixin.qq.com/s/pHT8p7xXHHSuDp9IImvtjg)
   - [开闭架构](https://mp.weixin.qq.com/s/wh6pJg-837K4WnMB943WwA)
   - [架构分层方法指导](https://mp.weixin.qq.com/s/XvthqjLyirvL_N74n6tSrQ?poc_token=HBnxo2WjOuSZA9LVz5PVZlclCialAFv1iUqnxqjX)
+  - [深入探索：软件架构模式的精华总结](https://mp.weixin.qq.com/s/gvd-dbY-ieSzfYsPa0yeJw)
 
 # 微服务系列
 
