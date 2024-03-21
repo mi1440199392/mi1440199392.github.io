@@ -7,6 +7,7 @@
   - [如何优雅的处理异常](https://zhuanlan.zhihu.com/p/624524378)
   - [系统认知篇：防腐层、门面模式及适配模式的本质](https://zhuanlan.zhihu.com/p/624838862)
   - [高并发场景下，怎么保证缓存和数据库的数据一致性？具体解决方案是什么？有哪些框架？具体怎么实现？](https://www.zhihu.com/question/458352302/answer/2990748762)
+  - [Java浅拷贝BeanUtils.copyProperties引发的RPC异常](https://mp.weixin.qq.com/s/XZvngE5qPaIiXXoeOItkKA)
 
 # Spring系列
 
