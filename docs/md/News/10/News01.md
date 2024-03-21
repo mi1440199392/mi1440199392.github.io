@@ -14,6 +14,7 @@
 
   - [Java 类加载器（ClassLoader）的实际使用场景有哪些？](https://www.zhihu.com/question/46719811/answer/1739289578)
   - [图解 JVM 内存模型及 JAVA 程序运行原理](https://zhuanlan.zhihu.com/p/631232458)
+  - [这些年背过的面试题——JVM篇](https://mp.weixin.qq.com/s/fg2Dy0Dbhcrn5QaNydp1WQ)
 
 # 设计模式系列
 
