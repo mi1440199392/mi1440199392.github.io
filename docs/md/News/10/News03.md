@@ -80,6 +80,7 @@
 
   - [思维训练 —— 怎样设计一个MQ](https://mp.weixin.qq.com/s/22zWcu_4dvpGhdsYbpoZFA)
   - [如何保证 RabbitMQ 消息不丢失？](https://mp.weixin.qq.com/s/tKARjiybVGnwOqIoy5wB-w)
+  - [Kafka Consumer 消费消息和 Rebalance 机制](https://mp.weixin.qq.com/s/bgLQQO2uNKbHxd9OSRvqpg)
 
 # 架构设计
 
