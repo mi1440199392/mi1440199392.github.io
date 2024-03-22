@@ -94,3 +94,4 @@
 
   - [OpenFeign核心原理](https://mp.weixin.qq.com/s/2u66t4Q0RMRLLEoMUhUG6A)
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
+  - [服务熔断是指什么？](https://mp.weixin.qq.com/s/WLZp0NKvaHGSmt5MAGDqAg)
