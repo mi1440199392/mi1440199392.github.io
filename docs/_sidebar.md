@@ -141,6 +141,7 @@
     - [Java HotSpot VM Options](/md/Note/100/007.md)
     - [telnet 连接 arthas](/md/Note/100/008.md)
     - [Idea Maven项目的 External Libraries 空列表问题](/md/Note/100/009.md)
+    - [git Invalid username or password 报错解决](/md/Note/100/010.md)
 
 - :green_book: 运维
 
