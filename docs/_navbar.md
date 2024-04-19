@@ -1,7 +1,7 @@
 * 🧰 工具箱
 
   * [MyBatis-Plus](https://baomidou.com/)
-  * [MyBatis](https://mybatis.org/mybatis-3/zh/index.html)
+  * [MyBatis](https://mybatis.net.cn/)
   * [JSON在线解析](https://www.sojson.com/)
   * [Maven库](https://mvnrepository.com/)
   * [Mall电商系统](http://www.macrozheng.com/#/)
