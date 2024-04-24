@@ -82,6 +82,7 @@
   - [思维训练 —— 怎样设计一个MQ](https://mp.weixin.qq.com/s/22zWcu_4dvpGhdsYbpoZFA)
   - [如何保证 RabbitMQ 消息不丢失？](https://mp.weixin.qq.com/s/tKARjiybVGnwOqIoy5wB-w)
   - [Kafka Consumer 消费消息和 Rebalance 机制](https://mp.weixin.qq.com/s/bgLQQO2uNKbHxd9OSRvqpg)
+  - [mq消息积压中，突然mq挂了，或者mysql挂了，或者两个都挂了怎么处理](https://www.zhihu.com/question/475985829/answer/2680703908)
 
 # 架构设计
 
