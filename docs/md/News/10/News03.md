@@ -84,6 +84,7 @@
   - [Kafka Consumer 消费消息和 Rebalance 机制](https://mp.weixin.qq.com/s/bgLQQO2uNKbHxd9OSRvqpg)
   - [mq消息积压处理 —— 知乎回答，苏三说技术](https://www.zhihu.com/question/475985829/answer/2680703908)
   - [mq消息积压处理 —— 知乎回答，柯柏技术笔记](https://www.zhihu.com/question/475985829/answer/3306895370)
+  - [mq消息丢失 —— 知乎回答，终端研发部](https://www.zhihu.com/question/475985829/answer/2193034297)
 
 # 架构设计
 
