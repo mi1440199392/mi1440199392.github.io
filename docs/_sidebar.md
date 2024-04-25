@@ -169,7 +169,7 @@
 
 - :postbox: 技术专栏
     
-    - [阿里开发者技术](/md/News/10/News01.md)
+    - [阿里技术](/md/News/10/News01.md)
     - [京东云技术](/md/News/10/News02.md)
     - [政采云技术](/md/News/10/News05.md)
     - [其他](/md/News/10/News03.md)
