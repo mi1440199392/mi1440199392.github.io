@@ -1,6 +1,6 @@
-> 转载网络上技术干货
+> 转载网络技术
 
-# 其他系列
+# 其他
 
   - [Java 上百万的数据量如何导出到 excel 文件？](https://www.zhihu.com/question/266128152/answer/2899625998)
   - [如何去阅读并学习一些优秀的开源框架的源码？](https://www.zhihu.com/question/26766601/answer/2297192544)
@@ -15,7 +15,7 @@
   - [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/pJCUGKSYkCaXf4-vnMYIcA)
   - [Nacos的Pull原理](https://mp.weixin.qq.com/s/pyK0-7LuFn8xiYKGOw47jQ)
 
-# MySQL系列
+# MySQL
 
   - [为什么MySQL索引要采用 B+tree ？不用二叉树、红黑树](https://zhuanlan.zhihu.com/p/633637500)
   - [肝了一晚上总结出来的Mysql万字优化！](https://zhuanlan.zhihu.com/p/356176331)
@@ -37,30 +37,30 @@
   - [一个Mysql事务隔离级别和一个MQ异步转同步问题](https://mp.weixin.qq.com/s/NIw8dxzDx7gsaj7cDSYZLg)
   - [数据库连接数设置多少合适？](https://mp.weixin.qq.com/s/RUtKqzLn8oco8AAORGzKPA)
 
-# Redis系列
+# Redis
 
   - [数据库和 Redis 双写数据一致性问题](https://www.zhihu.com/question/20734566/answer/3056703475)
   - [redis 订阅(subscribe/psubscribe)和发布 (publish)](https://blog.csdn.net/yang_yang1994/article/details/78108617)
   - [Redis主从复制原理](https://mp.weixin.qq.com/s/QTbWHQzyXTEVkNCFe5887g)
 
-# Tomcat系列
+# Tomcat
 
   - [为什么要有 Servlet ，什么是 Servlet 容器，什么是 Web 容器？](https://www.zhihu.com/question/585070524/answer/2939949226)
   - [Tomcat 架构原理解析到架构设计借鉴](https://mp.weixin.qq.com/s/Nsu0_SEA1VyiSD3g07Muow)
 
-# JVM系列
+# JVM
 
   - [常见的 jvm 调优的参数有哪些?](https://www.zhihu.com/question/588988401/answer/3012030394)
 
-# MyBatis系列
+# MyBatis
 
   - [深入理解 MyBatis](https://juejin.cn/post/7124465530701873183#heading-13)
 
-# Spring系列
+# Spring
 
   - [SpringBoot可以同时处理多少请求？](https://juejin.cn/post/7203648441721126972)
 
-# 并发编程系列
+# 并发编程
 
   - [为什么说ReentrantLock是悲观锁呢？](https://www.zhihu.com/question/527785982/answer/3102913513)
   - [JUC中的LockSupport工具类](http://itsoku.com/course/1/14)
@@ -72,7 +72,7 @@
   - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
   - [图灵学院 • 周瑜的技术博客](https://www.yuque.com/renyong-jmovm/dadudu)
 
-# Nginx系列
+# Nginx
 
   - [Nginx的学习与使用](https://blog.csdn.net/weixin_44251179/article/details/129744652)
   - [windows系统下安装Nginx以及简单使用](https://blog.csdn.net/weixin_44251179/article/details/129700793)
@@ -92,7 +92,7 @@
   - [架构分层方法指导](https://mp.weixin.qq.com/s/XvthqjLyirvL_N74n6tSrQ?poc_token=HBnxo2WjOuSZA9LVz5PVZlclCialAFv1iUqnxqjX)
   - [深入探索：软件架构模式的精华总结](https://mp.weixin.qq.com/s/gvd-dbY-ieSzfYsPa0yeJw)
 
-# 微服务系列
+# 微服务
 
   - [OpenFeign核心原理](https://mp.weixin.qq.com/s/2u66t4Q0RMRLLEoMUhUG6A)
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
