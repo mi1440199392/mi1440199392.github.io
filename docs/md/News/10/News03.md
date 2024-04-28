@@ -60,6 +60,7 @@
 # Spring
 
   - [SpringBoot可以同时处理多少请求？](https://juejin.cn/post/7203648441721126972)
+  - [深入理解BeanDefinition和Spring Beans](https://jimmie.blog.csdn.net/article/details/131999317)
 
 # 并发编程
 
