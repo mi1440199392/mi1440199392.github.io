@@ -14,6 +14,7 @@
   - [订单超时自动取消如何实现？](https://mp.weixin.qq.com/s/9zdNnP5B4URqmqnfz1389A)
   - [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/pJCUGKSYkCaXf4-vnMYIcA)
   - [Nacos的Pull原理](https://mp.weixin.qq.com/s/pyK0-7LuFn8xiYKGOw47jQ)
+  - [限流技术与实现方式](https://jimmie.blog.csdn.net/article/details/132359528)
 
 # MySQL
 
