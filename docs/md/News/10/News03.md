@@ -106,6 +106,7 @@
 # Zookeeper
 
   - [深入理解Zookeeper分布式锁的概念及原理](https://jimmie.blog.csdn.net/article/details/132036444)
+  - [分布式组件 ZooKeeper 介绍、术语概述以及集群搭建篇](https://blog.csdn.net/vnjohn/article/details/129822055)
 
 # Docker
 
