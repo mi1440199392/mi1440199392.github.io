@@ -16,6 +16,7 @@
   - [Nacos的Pull原理](https://mp.weixin.qq.com/s/pyK0-7LuFn8xiYKGOw47jQ)
   - [限流技术与实现方式](https://jimmie.blog.csdn.net/article/details/132359528)
   - [java.io.File类](https://jimmie.blog.csdn.net/article/details/116484949)
+  - [ThreadLocal&MDC内存泄漏问题](https://mp.weixin.qq.com/s/aj0bcB8v7K8P7FrTV-tvYA)
 
 # MySQL
 
