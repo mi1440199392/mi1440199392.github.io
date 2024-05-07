@@ -56,6 +56,7 @@
 
   - [常见的 jvm 调优的参数有哪些?](https://www.zhihu.com/question/588988401/answer/3012030394)
   - [深入理解 Java 引用类型：强壮、柔软、脆弱、虚无的力量](https://vnjohn.blog.csdn.net/article/details/131416462)
+  - [引用计数 vs 根可达算法：深入比较对象存活判定](https://vnjohn.blog.csdn.net/article/details/131452881)
 
 # MyBatis
 
