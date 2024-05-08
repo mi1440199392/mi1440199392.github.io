@@ -59,6 +59,7 @@
   - [引用计数 vs 根可达算法：深入比较对象存活判定](https://vnjohn.blog.csdn.net/article/details/131452881)
   - [优化内存利用：深入了解垃圾回收算法与回收器](https://vnjohn.blog.csdn.net/article/details/131485310)
   - [创造与布局：剖析 Java 对象创建过程以及内存布局](https://vnjohn.blog.csdn.net/article/details/131388180)
+  - [从类加载到双亲委派：深入解析类加载机制与 ClassLoader](https://vnjohn.blog.csdn.net/article/details/131361753)
 
 # MyBatis
 
