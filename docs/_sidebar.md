@@ -124,6 +124,7 @@
     - [客户端工具 ServletUtil](/md/Java/200/003.md)
     - [自定义轻量级重试工具类](/md/Java/200/004.md)
     - [Tomcat热部署 —— 打破双亲委派机制伪代码](/md/Java/200/005.md)
+    - [自定义类加载器加密class文件，防止反编译、篡改](/md/Java/200/006.md)
 
 - :orange_book: 前端
 
