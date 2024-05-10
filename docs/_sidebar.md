@@ -151,6 +151,7 @@
     - [tree 命令 – 树结构列出目录内容](/md/Linux/Linux01.md)
     - [查看 jar 包指定依赖版本](/md/Linux/Linux02.md)
     - [指定读取文件中的第 n 行](/md/Linux/100/001.md)
+    - [source命令 —— 从指定文件中读取和执行命令](/md/Linux/100/002.md)
 
 - :closed_book: 杂文
 
