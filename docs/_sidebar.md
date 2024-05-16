@@ -131,27 +131,24 @@
     - [npm 删除依赖和清理缓存](/md/Web/10/001.md)
     - [js 延时刷新](/md/Web/10/002.md)
 
-- :notebook_with_decorative_cover: 笔记
-
-    - [修改 idea64.exe.vmoptions，导致 idea 打不开](/md/Note/Note02.md)
-    - [git 常用命令](/md/Note/Note03.md)
-    - [解决 IDEA 拼写检查显示波浪线](/md/Note/100/001.md)
-    - [jar 包安装到 maven 本地仓库](/md/Note/100/002.md)
-    - [阿里云镜像-Maven中央代理仓库](/md/Note/100/003.md)
-    - [Maven settings 配置文件](/md/Note/100/004.md)
-    - [阿里巴巴开源镜像站](/md/Note/100/005.md)
-    - [Nginx 配置文件](/md/Note/100/006.md)
-    - [Java HotSpot VM Options](/md/Note/100/007.md)
-    - [telnet 连接 arthas](/md/Note/100/008.md)
-    - [Idea Maven项目的 External Libraries 空列表问题](/md/Note/100/009.md)
-    - [git Invalid username or password 报错解决](/md/Note/100/010.md)
-
 - :green_book: 运维
 
-    - [tree 命令 – 树结构列出目录内容](/md/Linux/Linux01.md)
-    - [查看 jar 包指定依赖版本](/md/Linux/Linux02.md)
+    - [tree 命令 – 树结构列出目录内容](/md/Linux/100/003.md)
+    - [查看 jar 包指定依赖版本](/md/Linux/100/004.md)
     - [指定读取文件中的第 n 行](/md/Linux/100/001.md)
     - [source命令 —— 从指定文件中读取和执行命令](/md/Linux/100/002.md)
+    - [修改 idea64.exe.vmoptions，导致 idea 打不开](/md/Linux/100/005.md)
+    - [git 常用命令](/md/Linux/100/006.md)
+    - [解决 IDEA 拼写检查显示波浪线](/md/Linux/200/001.md)
+    - [jar 包安装到 maven 本地仓库](/md/Linux/200/002.md)
+    - [阿里云镜像-Maven中央代理仓库](/md/Linux/200/003.md)
+    - [Maven settings 配置文件](/md/Linux/200/004.md)
+    - [阿里巴巴开源镜像站](/md/Linux/200/005.md)
+    - [Nginx 配置文件](/md/Linux/200/006.md)
+    - [Java HotSpot VM Options](/md/Linux/200/007.md)
+    - [telnet 连接 arthas](/md/Linux/200/008.md)
+    - [Idea Maven项目的 External Libraries 空列表问题](/md/Linux/200/009.md)
+    - [git Invalid username or password 报错解决](/md/Linux/200/010.md)
 
 - :closed_book: 杂文
 
@@ -170,7 +167,7 @@
     - [杂文随记 • 2024-03-05期](/md/Text/100/015.md)
     - [杂文随记 • 2024-04-01期](/md/Text/100/016.md)
 
-- :postbox: 技术专栏
+- :postbox: 专栏
     
     - [阿里技术](/md/News/10/News01.md)
     - [京东云技术](/md/News/10/News02.md)
