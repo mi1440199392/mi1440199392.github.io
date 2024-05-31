@@ -95,6 +95,7 @@
   - [mq消息积压处理 —— 知乎回答，苏三说技术](https://www.zhihu.com/question/475985829/answer/2680703908)
   - [mq消息积压处理 —— 知乎回答，柯柏技术笔记](https://www.zhihu.com/question/475985829/answer/3306895370)
   - [mq消息丢失 —— 知乎回答，终端研发部](https://www.zhihu.com/question/475985829/answer/2193034297)
+  - [消息队列的 6 种经典使用场景和 Kafka 架构设计原理详细解析](https://mp.weixin.qq.com/s/YtMPhh0eHgs4ZrUJQshINw)
 
 # 架构设计
 
