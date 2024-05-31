@@ -23,6 +23,7 @@
   - [设计模式最佳套路3 —— 愉快地使用代理模式](https://zhuanlan.zhihu.com/p/381795745)
   - [设计模式最佳套路4 —— 愉快地使用模板模式](https://zhuanlan.zhihu.com/p/387233001)
   - [Java中保持扩展性的几种套路和实现](https://mp.weixin.qq.com/s/F42LqQncMDLQH-WWmZ28fA)
+  - [这些年背过的面试题 —— 领域模型落地篇](https://mp.weixin.qq.com/s/8i3D-ppX5lYxpLO34L2eVw)
 
 # 其他
 
