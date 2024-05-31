@@ -20,6 +20,7 @@
   - [EasyExcel 百万级别数据高效率导入/导出](https://vnjohn.blog.csdn.net/article/details/125980327)
   - [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s/XGXTh_8SP238E02rFTVFtA)
   - [web消息的7种推送方案](https://mp.weixin.qq.com/s/-hx2wVCv5uomBzQXT_LayQ)
+  - [性能优化 —— 跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
 
 # MySQL
 
