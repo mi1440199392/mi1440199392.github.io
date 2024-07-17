@@ -1,4 +1,4 @@
-> 京东云技术
+> 京东技术
 
 # 其他
 
@@ -38,3 +38,8 @@
 # 消息队列
 
   - [mysql基于binlake同步ES积压解决方案](https://www.zhihu.com/question/475985829/answer/2749301490)
+
+# 其他
+
+  - [看完这篇，你的API服务设计能力将再次进化!](https://mp.weixin.qq.com/s/SOE_OgXreIOiGdG9wBsyQg)
+    
