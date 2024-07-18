@@ -34,6 +34,7 @@
   - [分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/JzCHpIOiFVmBoAko58ZuGw)
   - [一文详解 Java 限流接口实现](https://mp.weixin.qq.com/s/A5VYjstIDeVvizNK2HkrTQ)
   - [这些年背过的面试题 —— 网络和操作系统基础篇](https://mp.weixin.qq.com/s/PggcbQzRYMG7Vx038ays9w)
+  - [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)
 
 # Zookeeper
 
