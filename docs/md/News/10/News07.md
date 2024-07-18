@@ -7,3 +7,4 @@
 # mysql
 
   - [转转上门履约服务拆分库表迁移实践](https://mp.weixin.qq.com/s/p_i8qdnZzJPf_sOL5fkktg)
+  - [服了！DELETE 同一行记录也会造成死锁！！](https://mp.weixin.qq.com/s/K51ntOxUbU64kvdjnReXOw)
