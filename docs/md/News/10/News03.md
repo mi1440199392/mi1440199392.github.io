@@ -23,6 +23,7 @@
   - [性能优化 —— 跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
   - [到底什么是流处理？](https://mp.weixin.qq.com/s/xxMYi7e4s8i7iZsg7dvfJg)
   - [高性能短链设计](https://mp.weixin.qq.com/s/T1O_jy09AyQfJj9JEyLP1A)
+  - [如何正确解读并发数](https://mp.weixin.qq.com/s/cvNp_9xqC_AIdyVWGvXTdg)
 
 # MySQL
 
