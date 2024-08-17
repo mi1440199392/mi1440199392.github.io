@@ -29,6 +29,8 @@
   - [小马哥技术周报 - RPC 调用中熔断时间与超时时间的区别？](https://www.bilibili.com/video/BV17E4m1d7WQ/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
   - [小马哥技术周报 - 防御性编程正确姿势](https://www.bilibili.com/video/BV1Zu4m1M7YY/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
   - [CAP定理及其证明](https://liulijun-dev.github.io/2020/04/15/CAP-Theorem-and-Its-Proof/)
+  - [shardingsphere - 数据分片](https://shardingsphere.apache.org/document/current/cn/features/sharding/)
+  - [shardingsphere - 分布式事务](https://shardingsphere.apache.org/document/current/cn/features/transaction/)
 
 # MySQL
 
