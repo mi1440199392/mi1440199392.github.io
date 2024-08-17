@@ -31,6 +31,7 @@
   - [CAP定理及其证明](https://liulijun-dev.github.io/2020/04/15/CAP-Theorem-and-Its-Proof/)
   - [shardingsphere - 数据分片](https://shardingsphere.apache.org/document/current/cn/features/sharding/)
   - [shardingsphere - 分布式事务](https://shardingsphere.apache.org/document/current/cn/features/transaction/)
+  - [shardingsphere - 读写分离](https://shardingsphere.apache.org/document/current/cn/features/readwrite-splitting/)
 
 # MySQL
 
