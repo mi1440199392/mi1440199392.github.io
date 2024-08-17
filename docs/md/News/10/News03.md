@@ -24,6 +24,10 @@
   - [到底什么是流处理？](https://mp.weixin.qq.com/s/xxMYi7e4s8i7iZsg7dvfJg)
   - [高性能短链设计](https://mp.weixin.qq.com/s/T1O_jy09AyQfJj9JEyLP1A)
   - [如何正确解读并发数](https://mp.weixin.qq.com/s/cvNp_9xqC_AIdyVWGvXTdg)
+  - [小马哥技术周报 - Java 线程池中的 “奇技淫巧”](https://www.bilibili.com/video/BV1mE421w74v/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
+  - [小马哥技术周报 - 腾讯云4月8日故障分析](https://www.bilibili.com/video/BV1uE421w7Bj/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
+  - [小马哥技术周报 - RPC 调用中熔断时间与超时时间的区别？](https://www.bilibili.com/video/BV17E4m1d7WQ/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
+  - [小马哥技术周报 - 防御性编程正确姿势](https://www.bilibili.com/video/BV1Zu4m1M7YY/?spm_id_from=333.880.my_history.page.click&vd_source=c5d001ecc0528c4fddf360cc2cc11013)
 
 # MySQL
 
