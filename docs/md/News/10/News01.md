@@ -5,6 +5,7 @@
   - [如何理解Mysql的索引及他们的原理？](https://www.zhihu.com/question/26113830/answer/2274019227)
   - [阿里工程师分享 9 个自己写 SQL 的好习惯](https://www.zhihu.com/question/29619558/answer/1920919756)
   - [技术同学必会的 MySQL 设计规约](https://mp.weixin.qq.com/s/XC8e5iuQtfsrEOERffEZ-Q)
+  - [深入探索MySQL索引策略](https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g)
 
 # JVM
 
