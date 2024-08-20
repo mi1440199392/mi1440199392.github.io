@@ -32,6 +32,7 @@
   - [shardingsphere - 数据分片](https://shardingsphere.apache.org/document/current/cn/features/sharding/)
   - [shardingsphere - 分布式事务](https://shardingsphere.apache.org/document/current/cn/features/transaction/)
   - [shardingsphere - 读写分离](https://shardingsphere.apache.org/document/current/cn/features/readwrite-splitting/)
+  - [云原生除了微服务有什么关键技术](https://mp.weixin.qq.com/s/OwoPVN5f9fH4eJE5lTq47g)
 
 # MySQL
 
