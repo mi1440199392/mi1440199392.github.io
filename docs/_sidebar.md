@@ -18,6 +18,7 @@
     - [Jdbc —— 使用字符集和 Unicode](/md/DB/20/007.md)
     - [Jdbc —— 具有重试逻辑的事务示例](/md/DB/20/008.md)
     - [mysql复制表的三种方式](/md/DB/20/009.md)
+    - [任务重试表 retry_tasks](/md/DB/20/010.md)
 
 - :ledger: 后端
 
