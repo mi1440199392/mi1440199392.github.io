@@ -20,6 +20,7 @@
     - [mysql复制表的三种方式](/md/DB/20/009.md)
     - [任务重试表 retry_tasks](/md/DB/20/010.md)
     - [消息幂等表 message_idempotency](/md/DB/30/001.md)
+    - [产品配置表 product_param_config](/md/DB/30/002.md)
 
 - :ledger: 后端
 
