@@ -8,3 +8,7 @@
 # 异常管理
 
   - [禁止在代码中使用异常，一次时隔7年的复盘](https://mp.weixin.qq.com/s/Q3cn0G0U_mvBe2_ag8pvDg)
+
+# 其他
+
+  - [系统设计：在搜索系统实现缓存的策略与思考](https://mp.weixin.qq.com/s/7SSFCj50SLS2g_u2opc_Dg)
