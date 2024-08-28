@@ -56,6 +56,7 @@
   - [一个Mysql事务隔离级别和一个MQ异步转同步问题](https://mp.weixin.qq.com/s/NIw8dxzDx7gsaj7cDSYZLg)
   - [数据库连接数设置多少合适？](https://mp.weixin.qq.com/s/RUtKqzLn8oco8AAORGzKPA)
   - [MySQL锁相关总结](https://mp.weixin.qq.com/s/mKF2mYZjZ77rMfeHnh90nw)
+  - [MySQL记录锁、间隙锁、临键锁（Next-Key Locks）详解](https://www.jianshu.com/p/478bc84a7721)
 
 # Redis
 
