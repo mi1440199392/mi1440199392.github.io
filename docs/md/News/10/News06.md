@@ -13,3 +13,7 @@
 
   - [系统设计：在搜索系统实现缓存的策略与思考](https://mp.weixin.qq.com/s/7SSFCj50SLS2g_u2opc_Dg)
   - [软件系统限流的底层原理解析](https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw)
+
+# 设计模式
+
+  - [一文读懂 10 种最经典的设计模式](https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw)
