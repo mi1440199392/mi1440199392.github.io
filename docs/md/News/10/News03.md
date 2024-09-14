@@ -128,10 +128,11 @@
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
   - [服务熔断是指什么？](https://mp.weixin.qq.com/s/WLZp0NKvaHGSmt5MAGDqAg)
 
-# Zookeeper
+# 注册中心
 
   - [深入理解Zookeeper分布式锁的概念及原理](https://jimmie.blog.csdn.net/article/details/132036444)
   - [分布式组件 ZooKeeper 介绍、术语概述以及集群搭建篇](https://blog.csdn.net/vnjohn/article/details/129822055)
+  - [5种注册中心](https://mp.weixin.qq.com/s/39uVIyiLx3tCZ-5HYyHRqg)
 
 # Docker
 
