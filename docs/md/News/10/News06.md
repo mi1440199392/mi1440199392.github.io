@@ -5,6 +5,7 @@
   - [腾讯云单元化架构体系介绍](https://mp.weixin.qq.com/s/q8N2N0aMzaANj0Hh5Zkqaw)
   - [资金账户系统的设计](https://mp.weixin.qq.com/s/ayxnLAOBfE2EFqNWDGsbgQ)
   - [万字长文浅谈三高系统建设方法论和实践](https://mp.weixin.qq.com/s/U5uoRBNQSZvVKiOnCbTUdg)
+  - [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
 
 # 异常管理
 
