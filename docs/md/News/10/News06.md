@@ -7,6 +7,7 @@
   - [万字长文浅谈三高系统建设方法论和实践](https://mp.weixin.qq.com/s/U5uoRBNQSZvVKiOnCbTUdg)
   - [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
   - [什么才是真正的架构设计](https://mp.weixin.qq.com/s/7_SU77SKgI-GLyjMZeavsQ)
+  - [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ)
 
 # 异常管理
 
