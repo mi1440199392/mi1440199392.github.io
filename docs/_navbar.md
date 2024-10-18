@@ -1,6 +1,6 @@
 * 🧰 工具箱
 
-  * [Emoji表情大全](https://emojixd.com/)
+  * [Emoji表情大全](https://www.emojiall.com/zh-hans)
   * [RGB颜色对照表](https://tool.oschina.net/commons?type=3)
   * [格式化SQL](https://tool.oschina.net/codeformat/sql)
   * [随机身份证号码](http://www.chineseidcard.com/?region=110101&birthday=19590307&sex=1&num=5&r=48)
