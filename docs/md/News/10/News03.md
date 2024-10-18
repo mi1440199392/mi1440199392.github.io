@@ -35,6 +35,7 @@
   - [云原生除了微服务有什么关键技术](https://mp.weixin.qq.com/s/OwoPVN5f9fH4eJE5lTq47g)
   - [线程安全的单例模式](https://my.oschina.net/looly/blog/152865)
   - [程序是怎么一步步运行起来的](https://mp.weixin.qq.com/s/E102CbTBHjMLz2qRTueFxg)
+  - [SpringBoot参数校验方式](https://mp.weixin.qq.com/s/J050dqeQeEsS2VhseYXWfQ)
 
 # MySQL
 
