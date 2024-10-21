@@ -71,6 +71,7 @@
   - [Redis主从复制原理](https://mp.weixin.qq.com/s/QTbWHQzyXTEVkNCFe5887g)
   - [Redis List 消息队列的三种消费线程模型](https://mp.weixin.qq.com/s/k5A2sjMGqAqRyKy_toVojA)
   - [Spring Data Redis本质](https://mp.weixin.qq.com/s/5hcEd0bBodgW3e4INp2AHg)
+  - [万字长文详细分享Redis的常见业务场景](https://zhuanlan.zhihu.com/p/718225206)
 
 # Tomcat
 
