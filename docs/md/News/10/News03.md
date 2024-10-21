@@ -128,7 +128,7 @@
   - [架构分层方法指导](https://mp.weixin.qq.com/s/XvthqjLyirvL_N74n6tSrQ?poc_token=HBnxo2WjOuSZA9LVz5PVZlclCialAFv1iUqnxqjX)
   - [深入探索：软件架构模式的精华总结](https://mp.weixin.qq.com/s/gvd-dbY-ieSzfYsPa0yeJw)
 
-# 微服务
+# 分布式
 
   - [OpenFeign核心原理](https://mp.weixin.qq.com/s/2u66t4Q0RMRLLEoMUhUG6A)
   - [一文搞懂微服务架构演进](https://mp.weixin.qq.com/s/ReTVk1Af__EtWVLHIi-gvw)
