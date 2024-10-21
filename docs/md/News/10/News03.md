@@ -67,6 +67,7 @@
   - [redis 订阅(subscribe/psubscribe)和发布 (publish)](https://blog.csdn.net/yang_yang1994/article/details/78108617)
   - [Redis主从复制原理](https://mp.weixin.qq.com/s/QTbWHQzyXTEVkNCFe5887g)
   - [Redis List 消息队列的三种消费线程模型](https://mp.weixin.qq.com/s/k5A2sjMGqAqRyKy_toVojA)
+  - [Spring Data Redis本质](https://mp.weixin.qq.com/s/5hcEd0bBodgW3e4INp2AHg)
 
 # Tomcat
 
