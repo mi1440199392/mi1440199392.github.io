@@ -143,3 +143,7 @@
 # Docker
 
   - [Docker 详解：从入门到实践](https://jimmie.blog.csdn.net/article/details/132027570)
+
+# Maven
+
+  - [实战 | 手把手教你搭建一套大厂都在用的私服仓库](https://mp.weixin.qq.com/s/nWuLalBXhvwZnQP9wKVboQ) 
