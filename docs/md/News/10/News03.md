@@ -60,6 +60,7 @@
   - [数据库连接数设置多少合适？](https://mp.weixin.qq.com/s/RUtKqzLn8oco8AAORGzKPA)
   - [MySQL锁相关总结](https://mp.weixin.qq.com/s/mKF2mYZjZ77rMfeHnh90nw)
   - [MySQL记录锁、间隙锁、临键锁（Next-Key Locks）详解](https://www.jianshu.com/p/478bc84a7721)
+  - [数据库主从延迟](https://mp.weixin.qq.com/s/dGg8kNGWJdEmUGYuPT7BuA)
 
 # Redis
 
