@@ -8,6 +8,7 @@
   - [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
   - [什么才是真正的架构设计](https://mp.weixin.qq.com/s/7_SU77SKgI-GLyjMZeavsQ)
   - [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ)
+  - [微服务与分布式系统设计看这篇就够了](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw)
 
 # 异常管理
 
