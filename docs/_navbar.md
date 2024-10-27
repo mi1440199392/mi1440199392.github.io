@@ -73,3 +73,5 @@
   * [哲学中国网](http://philosophychina.cssn.cn/)
   * [英语语法网](http://www.yygrammar.com/)
   * [新概念英语](http://www.newconceptenglish.com/index.php)
+  * [语法俱乐部](https://llwslc.github.io/grammar-club/)
+  * [豆瓣](https://www.douban.com/)
