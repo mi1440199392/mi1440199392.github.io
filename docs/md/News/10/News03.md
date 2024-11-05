@@ -38,6 +38,7 @@
   - [SpringBoot参数校验方式](https://mp.weixin.qq.com/s/J050dqeQeEsS2VhseYXWfQ)
   - [Spring 实现 3 种异步接口](https://mp.weixin.qq.com/s/T7WT7bQNoMrDd2WU8WrROg)
   - [幂等设计的8种实现方式](https://mp.weixin.qq.com/s/6uNIRvR83jMEpblxrC_TxA)
+  - [回调数据丢了？](https://mp.weixin.qq.com/s/fJkvDAZfYHNP3U5SWLqnaw)
 
 # MySQL
 
