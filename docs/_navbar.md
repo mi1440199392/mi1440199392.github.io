@@ -1,7 +1,6 @@
 * 🧰 工具箱
 
   * [Emoji表情大全](https://www.emojiall.com/zh-hans)
-  * [RGB颜色对照表](https://tool.oschina.net/commons?type=3)
   * [格式化SQL](https://tool.oschina.net/codeformat/sql)
   * [随机身份证号码](http://www.chineseidcard.com/?region=110101&birthday=19590307&sex=1&num=5&r=48)
   * [博客搭建](https://docsify.js.org/#/)
@@ -51,6 +50,7 @@
   * [MyBatis-Plus](https://baomidou.com/)
   * [MyBatis](https://mybatis.net.cn/)
   * [Arthas | Alibaba开源Java诊断工具](https://arthas.aliyun.com/doc/index.html)
+  * [Apache Maven 中文网](https://maven.org.cn/index.html)
 
 * 📖 资源推荐
   * [A姐精品资源分享](https://www.ahhhhfs.com/)
