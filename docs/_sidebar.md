@@ -162,6 +162,7 @@
     - [Idea Maven项目的 External Libraries 空列表问题](/md/Linux/200/009.md)
     - [git Invalid username or password 报错解决](/md/Linux/200/010.md)
     - [plsql代码补全快捷键设置](/md/Linux/100/007.md)
+    - [IDEA Git比较文件显示差异](/md/Linux/300/002.md)
 
 - :closed_book: 杂文
 
