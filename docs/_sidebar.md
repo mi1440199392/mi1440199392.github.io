@@ -163,6 +163,7 @@
     - [git Invalid username or password 报错解决](/md/Linux/200/010.md)
     - [plsql代码补全快捷键设置](/md/Linux/100/007.md)
     - [IDEA Git比较文件显示差异](/md/Linux/300/002.md)
+    - [IDEA 快捷键](/md/Linux/300/001.md)
 
 - :closed_book: 杂文
 
