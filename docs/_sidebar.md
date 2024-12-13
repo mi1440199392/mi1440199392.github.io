@@ -137,6 +137,8 @@
     - [分片查询](/md/Java/200/012.md)
     - [回车字符\r 换行字符\n](/md/Java/200/013.md)
     - [RandomAccessFile 随机读写文件](/md/Java/200/014.md)
+    - [HTTP HttpHeaders](/md/Java/200/015.md)
+    - [HTTP MediaType](/md/Java/200/016.md)
 
 - :orange_book: 前端
 
