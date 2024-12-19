@@ -144,6 +144,7 @@
     - [字符编码常量 StandardCharsets](/md/Java/200/019.md)
     - [基于 Redisson 的分布式锁实现](/md/Java/200/020.md)
     - [字符编码转换器](/md/Java/200/021.md)
+    - [可读性的 JSON 格式化](/md/Java/200/022.md)
 
 - :orange_book: 前端
 
