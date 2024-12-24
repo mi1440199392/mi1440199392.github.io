@@ -174,6 +174,7 @@
     - [IDEA Git比较文件显示差异](/md/Linux/300/002.md)
     - [IDEA 快捷键](/md/Linux/300/001.md)
     - [less命令 — 分页显示文件内容](/md/Linux/300/003.md)
+    - [Windows 清理 Maven 本地库所有 SNAPSHOT 快照版本的依赖包](/md/Linux/300/004.md)
 
 - :closed_book: 杂文
 
