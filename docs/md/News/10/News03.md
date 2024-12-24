@@ -153,3 +153,4 @@
 # Maven
 
   - [实战 | 手把手教你搭建一套大厂都在用的私服仓库](https://mp.weixin.qq.com/s/nWuLalBXhvwZnQP9wKVboQ) 
+  - [如何提高 Maven 的构建速度](https://springdoc.cn/maven-fast-build/) 
