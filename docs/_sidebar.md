@@ -147,6 +147,7 @@
     - [可读性的 JSON 格式化](/md/Java/200/022.md)
     - [Spring Cloud Gateway](/md/Java/200/023.md)
     - [阿里开源规则引擎 QLExpress](/md/Java/200/024.md)
+    - [重试工具 Retryer](/md/Java/200/025.md)
 
 - :orange_book: 前端
 
