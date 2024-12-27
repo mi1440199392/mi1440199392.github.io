@@ -148,6 +148,7 @@
     - [Spring Cloud Gateway](/md/Java/200/023.md)
     - [阿里开源规则引擎 QLExpress](/md/Java/200/024.md)
     - [重试工具 Retryer](/md/Java/200/025.md)
+    - [Spring Cloud OpenFeign](/md/Java/200/026.md)
 
 - :orange_book: 前端
 
