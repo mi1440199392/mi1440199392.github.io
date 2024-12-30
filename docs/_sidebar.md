@@ -150,6 +150,7 @@
     - [重试工具 Retryer](/md/Java/200/025.md)
     - [Spring Cloud OpenFeign](/md/Java/200/026.md)
     - [RequestContextHolder](/md/Java/200/027.md)
+    - [Spring Cloud Bus](/md/Java/200/028.md)
 
 - :orange_book: 前端
 
