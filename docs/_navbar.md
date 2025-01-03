@@ -77,3 +77,4 @@
   * [新概念英语](http://www.newconceptenglish.com/index.php)
   * [语法俱乐部](https://llwslc.github.io/grammar-club/)
   * [豆瓣](https://www.douban.com/)
+  * [中国大百科全书](https://www.zgbk.com/)
