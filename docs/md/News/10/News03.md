@@ -40,6 +40,7 @@
   - [幂等设计的8种实现方式](https://mp.weixin.qq.com/s/6uNIRvR83jMEpblxrC_TxA)
   - [回调数据丢了？](https://mp.weixin.qq.com/s/fJkvDAZfYHNP3U5SWLqnaw)
   - [普通业务系统怎样总结项目亮点？](https://mp.weixin.qq.com/s/m1wVaycSt8AtBs2PlsD9WA)
+  - [做菜与洗碗 — JVM 分代收集模式](https://www.iteye.com/blog/rednaxelafx-2168844)
 
 # MySQL
 
