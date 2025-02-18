@@ -66,6 +66,7 @@
   - [MySQL锁相关总结](https://mp.weixin.qq.com/s/mKF2mYZjZ77rMfeHnh90nw)
   - [MySQL记录锁、间隙锁、临键锁（Next-Key Locks）详解](https://www.jianshu.com/p/478bc84a7721)
   - [数据库主从延迟](https://mp.weixin.qq.com/s/dGg8kNGWJdEmUGYuPT7BuA)
+  - [MySQL 归档的常见方式](https://www.biaodianfu.com/mysql-archive.html#%E4%BD%BF%E7%94%A8%E6%97%A5%E6%9C%9F%E5%88%86%E5%8C%BA%E8%A1%A8)
 
 # Oracle
     
