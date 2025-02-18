@@ -70,6 +70,7 @@
 # Oracle
     
   - [大量历史数据归档，怎样设计方案？](https://blog.csdn.net/2401_86074221/article/details/140240433)
+  - [Oracle 数据归档的最佳方法](https://deepinout.com/oracle/oracle-questions/631_oracle_whats_the_best_way_to_perform_data_archiving_on_an_oracle_database.html)
 
 # Redis
 
