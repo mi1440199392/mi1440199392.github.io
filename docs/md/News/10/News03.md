@@ -67,6 +67,10 @@
   - [MySQL记录锁、间隙锁、临键锁（Next-Key Locks）详解](https://www.jianshu.com/p/478bc84a7721)
   - [数据库主从延迟](https://mp.weixin.qq.com/s/dGg8kNGWJdEmUGYuPT7BuA)
 
+# Oracle
+    
+  - [大量历史数据归档，怎样设计方案？](https://blog.csdn.net/2401_86074221/article/details/140240433)
+
 # Redis
 
   - [数据库和 Redis 双写数据一致性问题](https://www.zhihu.com/question/20734566/answer/3056703475)
@@ -154,4 +158,5 @@
 # Maven
 
   - [实战 | 手把手教你搭建一套大厂都在用的私服仓库](https://mp.weixin.qq.com/s/nWuLalBXhvwZnQP9wKVboQ) 
-  - [如何提高 Maven 的构建速度](https://springdoc.cn/maven-fast-build/) 
+  - [如何提高 Maven 的构建速度](https://springdoc.cn/maven-fast-build/)
+    
