@@ -72,6 +72,7 @@
   - [大量历史数据归档，怎样设计方案？](https://blog.csdn.net/2401_86074221/article/details/140240433)
   - [Oracle 数据归档的最佳方法](https://deepinout.com/oracle/oracle-questions/631_oracle_whats_the_best_way_to_perform_data_archiving_on_an_oracle_database.html)
   - [Oracle 数据库中按时间进行表分区策略优化及实现方法详解](https://www.oryoy.com/news/oracle-shu-ju-ku-zhong-an-shi-jian-jin-xing-biao-fen-qu-ce-lve-you-hua-ji-shi-xian-fang-fa-xiang-jie.html)
+  - [揭秘 Oracle 数据库保留策略：如何高效管理数据生命周期？](https://www.oryoy.com/news/jie-mi-oracle-shu-ju-ku-bao-liu-ce-lve-ru-he-gao-xiao-guan-li-shu-ju-sheng-ming-zhou-qi.html)
 
 # Redis
 
