@@ -68,13 +68,14 @@
   - [数据库主从延迟](https://mp.weixin.qq.com/s/dGg8kNGWJdEmUGYuPT7BuA)
   - [MySQL 归档的常见方式](https://www.biaodianfu.com/mysql-archive.html#%E4%BD%BF%E7%94%A8%E6%97%A5%E6%9C%9F%E5%88%86%E5%8C%BA%E8%A1%A8)
 
-# Oracle
-    
+# 数据治理
+
   - [大量历史数据归档，怎样设计方案？](https://blog.csdn.net/2401_86074221/article/details/140240433)
   - [Oracle 数据归档的最佳方法](https://deepinout.com/oracle/oracle-questions/631_oracle_whats_the_best_way_to_perform_data_archiving_on_an_oracle_database.html)
   - [Oracle 数据库中按时间进行表分区策略优化及实现方法详解](https://www.oryoy.com/news/oracle-shu-ju-ku-zhong-an-shi-jian-jin-xing-biao-fen-qu-ce-lve-you-hua-ji-shi-xian-fang-fa-xiang-jie.html)
   - [揭秘 Oracle 数据库保留策略：如何高效管理数据生命周期？](https://www.oryoy.com/news/jie-mi-oracle-shu-ju-ku-bao-liu-ce-lve-ru-he-gao-xiao-guan-li-shu-ju-sheng-ming-zhou-qi.html)
   - [浅谈理解数据归档](https://blog.csdn.net/run_boy_2022/article/details/130726018)
+  - [教研题库升级：数据平滑迁移技术实战探秘](https://ei-sp-site.baijia.com/article?resourceId=1565663613397696&allowShare=1)
 
 # Redis
 

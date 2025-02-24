@@ -7,7 +7,7 @@
   - [技术同学必会的 MySQL 设计规约](https://mp.weixin.qq.com/s/XC8e5iuQtfsrEOERffEZ-Q)
   - [深入探索MySQL索引策略](https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g)
 
-# Oracle
+# 数据治理
 
   - [数据管理（兼容数据库备份）](https://help.aliyun.com/zh/dms/data-archiving/#43ed6a507adcm)
 
