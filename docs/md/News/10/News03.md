@@ -42,6 +42,7 @@
   - [普通业务系统怎样总结项目亮点？](https://mp.weixin.qq.com/s/m1wVaycSt8AtBs2PlsD9WA)
   - [做菜与洗碗 — JVM 分代收集模式](https://www.iteye.com/blog/rednaxelafx-2168844)
   - [让项目在大脑中升级](https://mp.weixin.qq.com/s/dZ8taY2FE9A5w8CrUtp00Q)
+  - [方法论用的太多是不是缺点人味？](https://mp.weixin.qq.com/s/RxjkmFrs3uVWSfXexbWX7A)
 
 # MySQL
 
