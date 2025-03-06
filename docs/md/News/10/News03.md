@@ -45,6 +45,7 @@
   - [方法论用的太多是不是缺点人味？](https://mp.weixin.qq.com/s/RxjkmFrs3uVWSfXexbWX7A)
   - [工作中怎么做到：不要慌](https://mp.weixin.qq.com/s/KJC83vl1BmFXYizRKIyMOg)
   - [转变思路解决实际问题的两个案例](https://mp.weixin.qq.com/s/Ktpl4IRqntZ4UrwcH5B1Lg)
+  - [分享两个实际解决问题的案例](https://mp.weixin.qq.com/s/Xw0Bw1-ZLYYLOAe4e0smMw)
 
 # MySQL
 
