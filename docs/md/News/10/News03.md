@@ -43,6 +43,7 @@
   - [做菜与洗碗 — JVM 分代收集模式](https://www.iteye.com/blog/rednaxelafx-2168844)
   - [让项目在大脑中升级](https://mp.weixin.qq.com/s/dZ8taY2FE9A5w8CrUtp00Q)
   - [方法论用的太多是不是缺点人味？](https://mp.weixin.qq.com/s/RxjkmFrs3uVWSfXexbWX7A)
+  - [工作中怎么做到：不要慌](https://mp.weixin.qq.com/s/KJC83vl1BmFXYizRKIyMOg)
 
 # MySQL
 
