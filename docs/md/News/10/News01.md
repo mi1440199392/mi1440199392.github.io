@@ -57,7 +57,3 @@
 # 架构设计
     
   - [一文分析架构思维之建模思维](https://developer.aliyun.com/article/1649417?spm=a2c6h.26392459.ebook_relatearticle.d_ebook_relatearticle_1.81df2863RhwzHZ&scm=20140722.ID_community@@article@@1649417._.ID_community@@article@@1649417-OR_rec-V_1-RL_community@@ebook@@37)
-
-# 并发编程
-
-  - [CompletableFuture 使用详解篇](https://blog.csdn.net/zsx_xiaoxin/article/details/123898171)
