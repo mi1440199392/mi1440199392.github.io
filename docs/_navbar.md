@@ -81,3 +81,4 @@
   * [中国大百科全书](https://www.zgbk.com/)
   * [WiKiHow 百科指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
   * [在线古籍图书馆](https://www.shuge.org/#top)
+  * [MBA 智库](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
