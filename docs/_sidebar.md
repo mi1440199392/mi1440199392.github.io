@@ -162,6 +162,7 @@
     - [AbstractCachingViewResolver 缓存视图实例](/md/Java/200/037.md)
     - [HttpServletRequest 上下文获取 Bean 容器](/md/Java/200/038.md)
     - [Spring Web MVC](/md/Java/200/039.md)
+    - [测试 Spring 如何识别 监听器Listener 的事件类型ApplicationEvent](/md/Java/200/040.md)
 
 - :orange_book: 前端
 
