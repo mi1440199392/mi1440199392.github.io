@@ -80,3 +80,4 @@
   * [豆瓣](https://www.douban.com/)
   * [中国大百科全书](https://www.zgbk.com/)
   * [WiKiHow 百科指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+  * [在线古籍图书馆](https://www.shuge.org/#top)
