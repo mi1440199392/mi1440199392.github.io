@@ -47,6 +47,7 @@
   - [转变思路解决实际问题的两个案例](https://mp.weixin.qq.com/s/Ktpl4IRqntZ4UrwcH5B1Lg)
   - [分享两个实际解决问题的案例](https://mp.weixin.qq.com/s/Xw0Bw1-ZLYYLOAe4e0smMw)
   - [关于面试8个赤裸裸的真相](https://mp.weixin.qq.com/s/lRyMRaMF9BG696jgQUKzmw)
+  - [巧用 GenericObjectPool 创建自定义对象池](https://juejin.cn/post/7209648356531109945#heading-9)
 
 # MySQL
 
