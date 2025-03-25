@@ -22,6 +22,7 @@
     - [消息幂等表 message_idempotency](/md/DB/30/001.md)
     - [产品配置表 product_param_config](/md/DB/30/002.md)
     - [金融行业 —— 金额字段类型](/md/DB/30/003.md)
+    - [Oracle 并行查询命令 PARALLEL](/md/DB/30/004.md)
 
 - :ledger: 后端
 
