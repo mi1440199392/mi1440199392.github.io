@@ -128,6 +128,20 @@
 
   - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
   - [图灵学院 • 周瑜的技术博客](https://www.yuque.com/renyong-jmovm/dadudu)
+  - [勇哥Java实战](https://javayong.cn/)
+  - [XXL-JOB | 分布式任务调度平台](https://www.xuxueli.com/xxl-job/#4.1%20%E9%85%8D%E7%BD%AE%E6%89%A7%E8%A1%8C%E5%99%A8)
+  - [RocketMQ](https://rocketmq.apache.org/zh/docs/)
+  - [Apollo | 分布式配置管理中心](https://www.apolloconfig.com/#/zh/design/apollo-introduction)
+  - [Nacos | 分布式配置管理中心](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+  - [菜鸟教程](https://www.runoob.com/)
+  - [北极星 | 服务治理平台](https://polarismesh.cn/)
+  - [ShardingSphere | 分布式数据分片](https://polarismesh.cn/)
+  - [ElasticJob | 分布式调度](https://shardingsphere.apache.org/elasticjob/index_zh.html)
+  - [Dromara 开源社区](https://dromara.org/zh/projects/)
+  - [Dubbo 文档](https://cn.dubbo.apache.org/zh-cn/overview/home/)
+  - [腾讯自研Git客户端](https://ugit.qq.com/zh/index.html)
+  - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+  - [MQCloud | 企业级MQ运维平台](https://www.ruanyifeng.com/blog/)
 
 # Nginx
 
