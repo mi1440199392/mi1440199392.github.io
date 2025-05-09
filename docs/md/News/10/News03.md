@@ -141,7 +141,7 @@
   - [Dubbo 文档](https://cn.dubbo.apache.org/zh-cn/overview/home/)
   - [腾讯自研Git客户端](https://ugit.qq.com/zh/index.html)
   - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-  - [MQCloud | 企业级MQ运维平台](https://www.ruanyifeng.com/blog/)
+  - [MQCloud | 企业级MQ运维平台](https://github.com/sohutv/mqcloud)
 
 # Nginx
 
