@@ -24,6 +24,7 @@
     - [金融行业 —— 金额字段类型](/md/DB/30/003.md)
     - [Oracle 并行查询命令 PARALLEL](/md/DB/30/004.md)
     - [Oracle 时间函数 TO_DATE](/md/DB/30/005.md)
+    - [EXISTS 语法](/md/DB/30/006.md)
 
 - :ledger: 后端
 
