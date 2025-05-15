@@ -66,6 +66,8 @@
   * [Dromara开源社区](https://dromara.org/zh/projects/)
   * [腾讯自研Git客户端](https://ugit.qq.com/zh/index.html)
   * [XXL开源社区](https://www.xuxueli.com/blog/)
+  * [LeetCode](https://leetcode.cn/)
+  * [牛客网](https://www.nowcoder.com/)
 
 * 🐋 摸鱼专区
   * [哔哩哔哩](https://www.bilibili.com/)
