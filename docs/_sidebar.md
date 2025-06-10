@@ -200,6 +200,7 @@
     - [Windows 快捷键](/md/Linux/300/005.md)
     - [Linux 重新连接命令](/md/Linux/300/006.md)
     - [IDEA 设置 Maven 总是刷新快照版本](/md/Linux/300/007.md)
+    - [Linux 挂载目录](/md/Linux/300/008.md)
 
 - :closed_book: 杂文
 
