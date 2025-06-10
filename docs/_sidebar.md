@@ -201,6 +201,7 @@
     - [Linux 重新连接命令](/md/Linux/300/006.md)
     - [IDEA 设置 Maven 总是刷新快照版本](/md/Linux/300/007.md)
     - [Linux 挂载目录](/md/Linux/300/008.md)
+    - [Linux 挂载 NAS 盘](/md/Linux/300/009.md)
 
 - :closed_book: 杂文
 
