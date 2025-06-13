@@ -169,6 +169,7 @@
     - [Spring 事务管理](/md/Java/200/041.md)
     - [Spring 测试](/md/Java/200/042.md)
     - [File 和 Path 设计上的区别](/md/Java/200/043.md)
+    - [Spring AnnotationConfigApplicationContext#scan 解析](/md/Java/200/044.md)
 
 - :orange_book: 前端
 
