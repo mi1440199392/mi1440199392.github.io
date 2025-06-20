@@ -179,6 +179,7 @@
   - [分布式组件 ZooKeeper 介绍、术语概述以及集群搭建篇](https://blog.csdn.net/vnjohn/article/details/129822055)
   - [5种注册中心](https://mp.weixin.qq.com/s/39uVIyiLx3tCZ-5HYyHRqg)
   - [深入浅出解析 Eureka 的实现原理](https://yuanjava.com/eureka/)
+  - [Spring Cloud Eureka](https://c.biancheng.net/springcloud/eureka.html)
 
 # Docker
 
