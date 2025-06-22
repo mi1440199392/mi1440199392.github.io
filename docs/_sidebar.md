@@ -171,6 +171,7 @@
     - [File 和 Path 设计上的区别](/md/Java/200/043.md)
     - [Spring AnnotationConfigApplicationContext#scan 解析](/md/Java/200/044.md)
     - [Spring Environment 解析](/md/Java/200/045.md)
+    - [Spring MessageSource 国际化](/md/Java/200/046.md)
 
 - :orange_book: 前端
 
