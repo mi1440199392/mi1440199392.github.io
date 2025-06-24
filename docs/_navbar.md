@@ -53,6 +53,7 @@
   * [Apache Maven 中文网](https://maven.org.cn/index.html)
   * [Redis 中文网](https://www.redis.net.cn/)
   * [Spring 中文网](https://springdoc.cn/)
+  * [Spring 中文文档](https://springframework.org.cn/)
   * [HTTP 指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 
 * 📖 资源推荐
