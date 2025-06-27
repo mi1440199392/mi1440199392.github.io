@@ -1,4 +1,4 @@
-- :blue_book: 数据
+- :open_file_folder: 数据
 
     - [大众点评订单系统分库分表实践](/md/DB/10/006.md)
     - [MySQL插入语句解决唯一键约束](/md/DB/10/005.md)
@@ -26,7 +26,7 @@
     - [Oracle 时间函数 TO_DATE](/md/DB/30/005.md)
     - [EXISTS 语法](/md/DB/30/006.md)
 
-- :ledger: 后端
+- :open_file_folder: 后端
 
     - [Java线程池实现原理及其在美团业务中的实践](/md/Java/100/Java01.md)
     - [并发工具之Semaphore与Exchanger](/md/Java/100/Java02.md)
@@ -176,12 +176,12 @@
     - [Spring 工具类](/md/Java/200/048.md)
     - [对象迭代器 Iterable](/md/Java/200/049.md)
 
-- :orange_book: 前端
+- :open_file_folder: 前端
 
     - [npm 删除依赖和清理缓存](/md/Web/10/001.md)
     - [js 延时刷新](/md/Web/10/002.md)
 
-- :green_book: 运维
+- :open_file_folder: 运维
 
     - [tree 命令 – 树结构列出目录内容](/md/Linux/100/003.md)
     - [查看 jar 包指定依赖版本](/md/Linux/100/004.md)
@@ -210,7 +210,7 @@
     - [Linux 挂载目录](/md/Linux/300/008.md)
     - [Linux 挂载 NAS 盘](/md/Linux/300/009.md)
 
-- :closed_book: 杂文
+- :open_file_folder: 杂文
 
     - [世说新语 • 言语〔摘选〕](/md/Text/100/001.md)
     - [世说新语 • 德行〔摘选〕](/md/Text/100/006.md)
@@ -270,7 +270,7 @@
     - [自由总是一件好事吗？](/md/Text/100/058.md)
     - [生活的意义 —— 孩子作为意义](/md/Text/100/059.md)
 
-- :postbox: 专栏
+- :open_file_folder: 专栏
     
     - [阿里技术](/md/News/10/News01.md)
     - [京东云技术](/md/News/10/News02.md)
