@@ -176,6 +176,7 @@
     - [Spring 工具类](/md/Java/200/048.md)
     - [对象迭代器 Iterable](/md/Java/200/049.md)
     - [Spring 个性化发布事件](/md/Java/200/050.md)
+    - [Spring 加载和解析 META-INF/spring.factories](/md/Java/200/051.md)
 
 - :open_file_folder: 前端
 
