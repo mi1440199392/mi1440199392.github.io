@@ -177,6 +177,7 @@
     - [对象迭代器 Iterable](/md/Java/200/049.md)
     - [Spring 个性化发布事件](/md/Java/200/050.md)
     - [Spring 加载和解析 META-INF/spring.factories](/md/Java/200/051.md)
+    - [Spring AOP 共享命名切点的定义](/md/Java/200/052.md)
 
 - :open_file_folder: 前端
 
