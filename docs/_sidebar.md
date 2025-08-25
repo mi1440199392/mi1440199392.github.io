@@ -213,6 +213,7 @@
     - [Linux 挂载目录](/md/Linux/300/008.md)
     - [Linux 挂载 NAS 盘](/md/Linux/300/009.md)
     - [Windows 防止息屏工具](/md/Linux/300/010.md)
+    - [grep 匹配多关键词](/md/Linux/400/001.md)
 
 - :open_file_folder: 杂文
 
