@@ -215,6 +215,7 @@
     - [Windows 防止息屏工具](/md/Linux/300/010.md)
     - [grep 匹配多关键词](/md/Linux/400/001.md)
     - [grep 关键词高亮](/md/Linux/400/002.md)
+    - [grep 搜索关键词并提取文件名](/md/Linux/400/003.md)
 
 - :open_file_folder: 杂文
 
