@@ -119,6 +119,7 @@
   - [SpringBoot参数校验方式](https://mp.weixin.qq.com/s/J050dqeQeEsS2VhseYXWfQ)
   - [Spring 实现 3 种异步接口](https://mp.weixin.qq.com/s/T7WT7bQNoMrDd2WU8WrROg)
   - [明明定义了Bean，为什么就是依赖注入不了？](https://www.yuque.com/renyong-jmovm/dadudu/oqr4divgrw1gat14)
+  - [聊聊@Validated和@Valid注解的底层实现](https://www.yuque.com/renyong-jmovm/dadudu/cu7hsnlxpe4us9g0)
 
 # 并发编程
 
