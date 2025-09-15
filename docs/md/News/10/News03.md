@@ -122,6 +122,7 @@
   - [聊聊@Validated和@Valid注解的底层实现](https://www.yuque.com/renyong-jmovm/dadudu/cu7hsnlxpe4us9g0)
   - [聊聊Spring中的ApplicationContext和BeanFacotry](https://www.yuque.com/renyong-jmovm/dadudu/dfqgyo929rly9ik3)
   - [聊聊Spring中的无注解依赖注入](https://www.yuque.com/renyong-jmovm/dadudu/pc18oegh21i80cgt)
+  - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/it8ayo)
 
 # 并发编程
 
