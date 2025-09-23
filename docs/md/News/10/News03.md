@@ -125,6 +125,7 @@
   - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/it8ayo)
   - [Spring之底层架构核心概念解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
   - [Spring之Bean生命周期源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/hczbgw)
+  - [Spring之Bean生命周期源码解析（下）](https://www.yuque.com/renyong-jmovm/spring/sw1f72)
 
 # 并发编程
 
