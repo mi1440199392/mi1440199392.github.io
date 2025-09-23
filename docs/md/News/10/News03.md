@@ -124,6 +124,7 @@
   - [聊聊Spring中的无注解依赖注入](https://www.yuque.com/renyong-jmovm/dadudu/pc18oegh21i80cgt)
   - [Spring底层核心原理解析](https://www.yuque.com/renyong-jmovm/spring/it8ayo)
   - [Spring之底层架构核心概念解析](https://www.yuque.com/renyong-jmovm/spring/pldhnd)
+  - [Spring之Bean生命周期源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/hczbgw)
 
 # 并发编程
 
