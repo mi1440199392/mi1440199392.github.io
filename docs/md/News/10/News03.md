@@ -127,6 +127,7 @@
   - [Spring之Bean生命周期源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/hczbgw)
   - [Spring之Bean生命周期源码解析（下）](https://www.yuque.com/renyong-jmovm/spring/sw1f72)
   - [Spring之依赖注入源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/pb1xqg)
+  - [Spring之依赖注入源码解析（下）](https://www.yuque.com/renyong-jmovm/spring/vobkqb)
 
 # 并发编程
 
