@@ -129,6 +129,7 @@
   - [Spring之依赖注入源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/pb1xqg)
   - [Spring之依赖注入源码解析（下）](https://www.yuque.com/renyong-jmovm/spring/vobkqb)
   - [Spring之循环依赖底层源码解析](https://www.yuque.com/renyong-jmovm/spring/tdvdmd)
+  - [Spring之推断构造方法源码解析](https://www.yuque.com/renyong-jmovm/spring/te9peg)
 
 # 并发编程
 
