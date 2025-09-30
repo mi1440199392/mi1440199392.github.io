@@ -133,6 +133,7 @@
   - [Spring之启动过程源码解析](https://www.yuque.com/renyong-jmovm/spring/ybkuwi)
   - [Spring之配置类解析源码解析](https://www.yuque.com/renyong-jmovm/spring/syq03l)
   - [Spring之整合Mybatis底层源码解析](https://www.yuque.com/renyong-jmovm/spring/hzw30g)
+  - [Spring之AOP底层源码解析（上）](https://www.yuque.com/renyong-jmovm/spring/bngtc3)
 
 # 并发编程
 
