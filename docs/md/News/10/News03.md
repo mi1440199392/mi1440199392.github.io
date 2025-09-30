@@ -131,6 +131,7 @@
   - [Spring之循环依赖底层源码解析](https://www.yuque.com/renyong-jmovm/spring/tdvdmd)
   - [Spring之推断构造方法源码解析](https://www.yuque.com/renyong-jmovm/spring/te9peg)
   - [Spring之启动过程源码解析](https://www.yuque.com/renyong-jmovm/spring/ybkuwi)
+  - [Spring之配置类解析源码解析](https://www.yuque.com/renyong-jmovm/spring/syq03l)
 
 # 并发编程
 
