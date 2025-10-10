@@ -140,6 +140,7 @@
   - [SpringMVC重点功能底层源码解析](https://www.yuque.com/renyong-jmovm/spring/fzpo7i7ndodumwft)
   - [手写模拟SpringBoot核心流程](https://www.yuque.com/renyong-jmovm/spring/au8ol4tiik7kh64r)
   - [SpringBoot启动过程源码解析](https://www.yuque.com/renyong-jmovm/spring/ytwz0shgk4vsnns0)
+  - [SpringBoot自动配置底层源码解析](https://www.yuque.com/renyong-jmovm/spring/ece8lh9p2arct3yt)
 
 # 并发编程
 
