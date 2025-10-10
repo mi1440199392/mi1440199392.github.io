@@ -138,6 +138,7 @@
   - [Spring之事务底层源码解析](https://www.yuque.com/renyong-jmovm/spring/vfg3g6)
   - [SpringMVC启动与请求处理流程解析](https://www.yuque.com/renyong-jmovm/spring/pbufmbsxatdwllle)
   - [SpringMVC重点功能底层源码解析](https://www.yuque.com/renyong-jmovm/spring/fzpo7i7ndodumwft)
+  - [手写模拟SpringBoot核心流程](https://www.yuque.com/renyong-jmovm/spring/au8ol4tiik7kh64r)
 
 # 并发编程
 
