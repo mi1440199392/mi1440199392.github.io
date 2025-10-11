@@ -142,6 +142,7 @@
   - [SpringBoot启动过程源码解析](https://www.yuque.com/renyong-jmovm/spring/ytwz0shgk4vsnns0)
   - [SpringBoot自动配置底层源码解析](https://www.yuque.com/renyong-jmovm/spring/ece8lh9p2arct3yt)
   - [SpringMVC中不常用注解使用](https://www.yuque.com/renyong-jmovm/spring/lezs4zrkv4sadn15)
+  - [SpringMVC中的转发和重定向](https://www.yuque.com/renyong-jmovm/spring/qltqynrl1lvgc19m)
 
 # 并发编程
 
