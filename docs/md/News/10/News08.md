@@ -22,4 +22,5 @@
 | 18     | Apollo 配置管理中心                | https://gitee.com/apolloconfig/apollo          |
 | 19     | ElasticJob 分布式作业调度           | https://gitee.com/elasticjob/elastic-job          |
 | 20     | DataBand 采集清洗，任务管理，实时流和批处理数据 | https://gitee.com/475660/databand          |
-| 21     | lock4j 分布式锁组件                     | https://gitee.com/baomidou/lock4j          |
+| 21     | lock4j 分布式锁组件                | https://gitee.com/baomidou/lock4j          |
+| 22     | PIG 微服务权限管理系统                | https://wiki.pig4cloud.com/open          |
