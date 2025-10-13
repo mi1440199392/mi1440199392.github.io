@@ -144,6 +144,7 @@
   - [SpringMVC中不常用注解使用](https://www.yuque.com/renyong-jmovm/spring/lezs4zrkv4sadn15)
   - [SpringMVC中的转发和重定向](https://www.yuque.com/renyong-jmovm/spring/qltqynrl1lvgc19m)
   - [Spring模块组成](https://thinkwon.blog.csdn.net/article/details/102810819)
+  - [Spring容器中bean的生命周期](https://thinkwon.blog.csdn.net/article/details/102866432)
 
 # 并发编程
 
