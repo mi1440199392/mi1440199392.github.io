@@ -147,6 +147,7 @@
   - [Spring容器中bean的生命周期](https://thinkwon.blog.csdn.net/article/details/102866432)
   - [控制反转(IoC)与依赖注入(DI)详解](https://thinkwon.blog.csdn.net/article/details/102912332)
   - [《Spring实战》读书笔记-第3章 高级装配](https://thinkwon.blog.csdn.net/article/details/103536621)
+  - [《Spring实战》读书笔记-第4章 面向切面的Spring](https://thinkwon.blog.csdn.net/article/details/103541166)
 
 # 并发编程
 
