@@ -145,6 +145,7 @@
   - [SpringMVC中的转发和重定向](https://www.yuque.com/renyong-jmovm/spring/qltqynrl1lvgc19m)
   - [Spring模块组成](https://thinkwon.blog.csdn.net/article/details/102810819)
   - [Spring容器中bean的生命周期](https://thinkwon.blog.csdn.net/article/details/102866432)
+  - [控制反转(IoC)与依赖注入(DI)详解](https://thinkwon.blog.csdn.net/article/details/102912332)
 
 # 并发编程
 
