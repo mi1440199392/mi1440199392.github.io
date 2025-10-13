@@ -149,6 +149,7 @@
   - [《Spring实战》读书笔记-第3章 高级装配](https://thinkwon.blog.csdn.net/article/details/103536621)
   - [《Spring实战》读书笔记-第4章 面向切面的Spring](https://thinkwon.blog.csdn.net/article/details/103541166)
   - [《Spring实战》读书笔记-第5章 构建Spring Web应用程序](https://thinkwon.blog.csdn.net/article/details/103550083)
+  - [《Spring实战》读书笔记-第6章 渲染Web视图](https://thinkwon.blog.csdn.net/article/details/103559672)
 
 # 并发编程
 
