@@ -150,6 +150,7 @@
   - [《Spring实战》读书笔记-第4章 面向切面的Spring](https://thinkwon.blog.csdn.net/article/details/103541166)
   - [《Spring实战》读书笔记-第5章 构建Spring Web应用程序](https://thinkwon.blog.csdn.net/article/details/103550083)
   - [《Spring实战》读书笔记-第6章 渲染Web视图](https://thinkwon.blog.csdn.net/article/details/103559672)
+  - [《Spring实战》读书笔记-第7章 Spring MVC的高级技术](https://thinkwon.blog.csdn.net/article/details/103562467)
 
 # 并发编程
 
