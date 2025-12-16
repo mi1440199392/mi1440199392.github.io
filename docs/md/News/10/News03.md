@@ -47,6 +47,7 @@
   - [关于面试8个赤裸裸的真相](https://mp.weixin.qq.com/s/lRyMRaMF9BG696jgQUKzmw)
   - [巧用 GenericObjectPool 创建自定义对象池](https://juejin.cn/post/7209648356531109945#heading-9)
   - [响应式编程和异步编程的区别](https://www.yuque.com/renyong-jmovm/dadudu/esu4rdx2qbtz5o6n)
+  - [约定式分支 — 分支可读性的规范](https://conventional-branch.github.io/zh/#%e8%a7%84%e8%8c%83)
 
 # MySQL
 
